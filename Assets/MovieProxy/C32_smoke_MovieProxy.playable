@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c579aa4480ce64daff0ad6a9312d97, type: 3}
+  m_Name: C32_smoke_MovieProxy
+  m_EditorClassIdentifier: 
+  Version: 0
+  Resolution:
+    Width: 0
+    Height: 0
+  Folder: Assets/StreamingAssets/C32_smoke
+  Pictures:
+  - C32_smoke_00000.png
+  - C32_smoke_00001.png
+  - C32_smoke_00002.png
+  - C32_smoke_00003.png
+  - C32_smoke_00004.png
+  - C32_smoke_00005.png
+  - C32_smoke_00006.png
+  - C32_smoke_00007.png
+  - C32_smoke_00008.png
+  - C32_smoke_00009.png
+  - C32_smoke_00010.png
+  - C32_smoke_00011.png
+  - C32_smoke_00012.png
+  - C32_smoke_00013.png
+  - C32_smoke_00014.png
+  - C32_smoke_00015.png
+  - C32_smoke_00016.png
+  - C32_smoke_00017.png
+  - C32_smoke_00018.png
+  - C32_smoke_00019.png
+  - C32_smoke_00020.png
+  - C32_smoke_00021.png
+  - C32_smoke_00022.png
+  - C32_smoke_00023.png
+  - C32_smoke_00024.png
+  - C32_smoke_00025.png
+  - C32_smoke_00026.png
+  - C32_smoke_00027.png
+  - C32_smoke_00028.png
+  - C32_smoke_00029.png
+  - C32_smoke_00030.png
+  - C32_smoke_00031.png
+  - C32_smoke_00032.png
+  - C32_smoke_00033.png
+  - C32_smoke_00034.png
+  - C32_smoke_00035.png
+  - C32_smoke_00036.png
+  - C32_smoke_00037.png
+  - C32_smoke_00038.png
+  - C32_smoke_00039.png
+  - C32_smoke_00040.png
+  - C32_smoke_00041.png
+  - C32_smoke_00042.png
+  - C32_smoke_00043.png
+  - C32_smoke_00044.png
+  - C32_smoke_00045.png
+  - C32_smoke_00046.png
+  - C32_smoke_00047.png
+  - C32_smoke_00048.png
+  - C32_smoke_00049.png
+  - C32_smoke_00050.png
+  - C32_smoke_00051.png
+  - C32_smoke_00052.png
+  - C32_smoke_00053.png
+  - C32_smoke_00054.png
+  - C32_smoke_00055.png
+  - C32_smoke_00056.png
+  - C32_smoke_00057.png
+  - C32_smoke_00058.png
+  - C32_smoke_00059.png
+  - C32_smoke_00060.png
+  - C32_smoke_00061.png
+  - C32_smoke_00062.png
+  - C32_smoke_00063.png
+  - C32_smoke_00064.png
+  - C32_smoke_00065.png
+  - C32_smoke_00066.png
+  - C32_smoke_00067.png
+  - C32_smoke_00068.png
+  - C32_smoke_00069.png
+  - C32_smoke_00070.png
+  - C32_smoke_00071.png
+  - C32_smoke_00072.png
+  - C32_smoke_00073.png
+  - C32_smoke_00074.png
+  - C32_smoke_00075.png
+  - C32_smoke_00076.png
+  - C32_smoke_00077.png
+  - C32_smoke_00078.png
+  - C32_smoke_00079.png
+  - C32_smoke_00080.png
+  - C32_smoke_00081.png
+  - C32_smoke_00082.png
+  - C32_smoke_00083.png
+  - C32_smoke_00084.png
+  - C32_smoke_00085.png
+  - C32_smoke_00086.png
+  - C32_smoke_00087.png
+  - C32_smoke_00088.png
+  - C32_smoke_00089.png
+  - C32_smoke_00090.png
+  - C32_smoke_00091.png
+  m_loadingIndex: 92
+  m_clip:
+    m_Start: 59.23333333333333
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000}
+    m_UnderlyingAsset: {fileID: 11400000}
+    m_Duration: 3.06666666666667
+    m_ParentID: 0
+    m_TimeScale: 1
+    m_BlendCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_ParentTrack: {fileID: 114968231105117576, guid: a019167e002f3a64fa514713b79249d4,
+      type: 2}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: C32_smoke_MovieProxy

@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c579aa4480ce64daff0ad6a9312d97, type: 3}
+  m_Name: C33_Zoom_MovieProxy
+  m_EditorClassIdentifier: 
+  Version: 0
+  Resolution:
+    Width: 0
+    Height: 0
+  Folder: Assets/StreamingAssets/C33_Zoom
+  Pictures:
+  - C33_Zoom_01998.png
+  - C33_Zoom_01999.png
+  - C33_Zoom_02000.png
+  - C33_Zoom_02001.png
+  - C33_Zoom_02002.png
+  - C33_Zoom_02003.png
+  - C33_Zoom_02004.png
+  - C33_Zoom_02005.png
+  - C33_Zoom_02006.png
+  - C33_Zoom_02007.png
+  - C33_Zoom_02008.png
+  - C33_Zoom_02009.png
+  - C33_Zoom_02010.png
+  - C33_Zoom_02011.png
+  - C33_Zoom_02012.png
+  - C33_Zoom_02013.png
+  - C33_Zoom_02014.png
+  - C33_Zoom_02015.png
+  - C33_Zoom_02016.png
+  - C33_Zoom_02017.png
+  - C33_Zoom_02018.png
+  - C33_Zoom_02019.png
+  - C33_Zoom_02020.png
+  - C33_Zoom_02021.png
+  - C33_Zoom_02022.png
+  - C33_Zoom_02023.png
+  - C33_Zoom_02024.png
+  - C33_Zoom_02025.png
+  - C33_Zoom_02026.png
+  - C33_Zoom_02027.png
+  - C33_Zoom_02028.png
+  - C33_Zoom_02029.png
+  - C33_Zoom_02030.png
+  - C33_Zoom_02031.png
+  - C33_Zoom_02032.png
+  - C33_Zoom_02033.png
+  - C33_Zoom_02034.png
+  - C33_Zoom_02035.png
+  - C33_Zoom_02036.png
+  - C33_Zoom_02037.png
+  - C33_Zoom_02038.png
+  - C33_Zoom_02039.png
+  - C33_Zoom_02040.png
+  - C33_Zoom_02041.png
+  - C33_Zoom_02042.png
+  - C33_Zoom_02043.png
+  - C33_Zoom_02044.png
+  - C33_Zoom_02045.png
+  - C33_Zoom_02046.png
+  - C33_Zoom_02047.png
+  - C33_Zoom_02048.png
+  - C33_Zoom_02049.png
+  - C33_Zoom_02050.png
+  - C33_Zoom_02051.png
+  - C33_Zoom_02052.png
+  - C33_Zoom_02053.png
+  - C33_Zoom_02054.png
+  - C33_Zoom_02055.png
+  - C33_Zoom_02056.png
+  - C33_Zoom_02057.png
+  - C33_Zoom_02058.png
+  - C33_Zoom_02059.png
+  - C33_Zoom_02060.png
+  - C33_Zoom_02061.png
+  - C33_Zoom_02062.png
+  - C33_Zoom_02063.png
+  - C33_Zoom_02064.png
+  - C33_Zoom_02065.png
+  - C33_Zoom_02066.png
+  - C33_Zoom_02067.png
+  - C33_Zoom_02068.png
+  - C33_Zoom_02069.png
+  - C33_Zoom_02070.png
+  - C33_Zoom_02071.png
+  - C33_Zoom_02072.png
+  - C33_Zoom_02073.png
+  - C33_Zoom_02074.png
+  - C33_Zoom_02075.png
+  - C33_Zoom_02076.png
+  - C33_Zoom_02077.png
+  - C33_Zoom_02078.png
+  - C33_Zoom_02079.png
+  - C33_Zoom_02080.png
+  - C33_Zoom_02081.png
+  - C33_Zoom_02082.png
+  - C33_Zoom_02083.png
+  - C33_Zoom_02084.png
+  - C33_Zoom_02085.png
+  - C33_Zoom_02086.png
+  - C33_Zoom_02087.png
+  - C33_Zoom_02088.png
+  - C33_Zoom_02089.png
+  - C33_Zoom_02090.png
+  - C33_Zoom_02091.png
+  - C33_Zoom_02092.png
+  - C33_Zoom_02093.png
+  - C33_Zoom_02094.png
+  - C33_Zoom_02095.png
+  - C33_Zoom_02096.png
+  - C33_Zoom_02097.png
+  - C33_Zoom_02098.png
+  - C33_Zoom_02099.png
+  - C33_Zoom_02100.png
+  - C33_Zoom_02101.png
+  - C33_Zoom_02102.png
+  - C33_Zoom_02103.png
+  - C33_Zoom_02104.png
+  - C33_Zoom_02105.png
+  m_loadingIndex: 108
+  m_clip:
+    m_Start: 65.86666666666666
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000}
+    m_UnderlyingAsset: {fileID: 11400000}
+    m_Duration: 3.6
+    m_ParentID: 0
+    m_TimeScale: 1
+    m_BlendCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_ParentTrack: {fileID: 114919286716850142, guid: a019167e002f3a64fa514713b79249d4,
+      type: 2}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: C33_Zoom_MovieProxy

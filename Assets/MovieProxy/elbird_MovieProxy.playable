@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c579aa4480ce64daff0ad6a9312d97, type: 3}
+  m_Name: elbird_MovieProxy
+  m_EditorClassIdentifier: 
+  Version: 0
+  Resolution:
+    Width: 0
+    Height: 0
+  Folder: Assets/StreamingAssets/elbird
+  Pictures:
+  - elbird_02228.png
+  - elbird_02229.png
+  - elbird_02230.png
+  - elbird_02231.png
+  - elbird_02232.png
+  - elbird_02233.png
+  - elbird_02234.png
+  - elbird_02235.png
+  - elbird_02236.png
+  - elbird_02237.png
+  - elbird_02238.png
+  - elbird_02239.png
+  - elbird_02240.png
+  - elbird_02241.png
+  - elbird_02242.png
+  - elbird_02243.png
+  - elbird_02244.png
+  - elbird_02245.png
+  - elbird_02246.png
+  - elbird_02247.png
+  - elbird_02248.png
+  - elbird_02249.png
+  - elbird_02250.png
+  - elbird_02251.png
+  - elbird_02252.png
+  - elbird_02253.png
+  - elbird_02254.png
+  - elbird_02255.png
+  - elbird_02256.png
+  - elbird_02257.png
+  - elbird_02258.png
+  - elbird_02259.png
+  - elbird_02260.png
+  - elbird_02261.png
+  - elbird_02262.png
+  - elbird_02263.png
+  - elbird_02264.png
+  - elbird_02265.png
+  - elbird_02266.png
+  - elbird_02267.png
+  - elbird_02268.png
+  - elbird_02269.png
+  - elbird_02270.png
+  - elbird_02271.png
+  - elbird_02272.png
+  - elbird_02273.png
+  - elbird_02274.png
+  - elbird_02275.png
+  - elbird_02276.png
+  - elbird_02277.png
+  - elbird_02278.png
+  - elbird_02279.png
+  - elbird_02280.png
+  - elbird_02281.png
+  - elbird_02282.png
+  - elbird_02283.png
+  - elbird_02284.png
+  - elbird_02285.png
+  - elbird_02286.png
+  - elbird_02287.png
+  - elbird_02288.png
+  - elbird_02289.png
+  - elbird_02290.png
+  - elbird_02291.png
+  - elbird_02292.png
+  - elbird_02293.png
+  - elbird_02294.png
+  - elbird_02295.png
+  - elbird_02296.png
+  - elbird_02297.png
+  - elbird_02298.png
+  - elbird_02299.png
+  - elbird_02300.png
+  - elbird_02301.png
+  - elbird_02302.png
+  - elbird_02303.png
+  - elbird_02304.png
+  - elbird_02305.png
+  - elbird_02306.png
+  - elbird_02307.png
+  - elbird_02308.png
+  - elbird_02309.png
+  - elbird_02310.png
+  - elbird_02311.png
+  - elbird_02312.png
+  - elbird_02313.png
+  - elbird_02314.png
+  - elbird_02315.png
+  - elbird_02316.png
+  - elbird_02317.png
+  - elbird_02318.png
+  - elbird_02319.png
+  - elbird_02320.png
+  - elbird_02321.png
+  - elbird_02322.png
+  - elbird_02323.png
+  - elbird_02324.png
+  - elbird_02325.png
+  - elbird_02326.png
+  - elbird_02327.png
+  - elbird_02328.png
+  - elbird_02329.png
+  - elbird_02330.png
+  - elbird_02331.png
+  - elbird_02332.png
+  - elbird_02333.png
+  - elbird_02334.png
+  - elbird_02335.png
+  - elbird_02336.png
+  - elbird_02337.png
+  - elbird_02338.png
+  - elbird_02339.png
+  - elbird_02340.png
+  - elbird_02341.png
+  - elbird_02342.png
+  - elbird_02343.png
+  - elbird_02344.png
+  - elbird_02345.png
+  - elbird_02346.png
+  - elbird_02347.png
+  - elbird_02348.png
+  - elbird_02349.png
+  - elbird_02350.png
+  - elbird_02351.png
+  - elbird_02352.png
+  - elbird_02353.png
+  - elbird_02354.png
+  - elbird_02355.png
+  - elbird_02356.png
+  - elbird_02357.png
+  - elbird_02358.png
+  - elbird_02359.png
+  - elbird_02360.png
+  - elbird_02361.png
+  - elbird_02362.png
+  - elbird_02363.png
+  - elbird_02364.png
+  - elbird_02365.png
+  - elbird_02366.png
+  - elbird_02367.png
+  - elbird_02368.png
+  - elbird_02369.png
+  - elbird_02370.png
+  - elbird_02371.png
+  - elbird_02372.png
+  - elbird_02373.png
+  - elbird_02374.png
+  - elbird_02375.png
+  - elbird_02376.png
+  m_loadingIndex: 149
+  m_clip:
+    m_Start: 75.1
+    m_ClipIn: 0
+    m_Asset: {fileID: 11400000}
+    m_UnderlyingAsset: {fileID: 11400000}
+    m_Duration: 4.13333333333334
+    m_ParentID: 0
+    m_TimeScale: 1
+    m_BlendCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_ParentTrack: {fileID: 114753791447877794, guid: a019167e002f3a64fa514713b79249d4,
+      type: 2}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: elbird_MovieProxy
