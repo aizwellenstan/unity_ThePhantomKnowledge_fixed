@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: cad822c747f43db4796afc3eacea8664
+timeCreated: 1489647680
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CHyukoA_rigging_v01:backKnee_L
+    100002: CHyukoA_rigging_v01:backKnee_R
+    100004: CHyukoA_rigging_v01:body
+    100006: CHyukoA_rigging_v01:calfVolA_L
+    100008: CHyukoA_rigging_v01:calfVolA_R
+    100010: CHyukoA_rigging_v01:clavicle_L
+    100012: CHyukoA_rigging_v01:clavicle_R
+    100014: CHyukoA_rigging_v01:collar
+    100016: CHyukoA_rigging_v01:cuffs
+    100018: CHyukoA_rigging_v01:elbow_L
+    100020: CHyukoA_rigging_v01:elbow_R
+    100022: CHyukoA_rigging_v01:eyeBall
+    100024: CHyukoA_rigging_v01:eyeHighLight
+    100026: CHyukoA_rigging_v01:eyeline
+    100028: CHyukoA_rigging_v01:foot_L
+    100030: CHyukoA_rigging_v01:foot_R
+    100032: CHyukoA_rigging_v01:hair
+    100034: CHyukoA_rigging_v01:hand_L
+    100036: CHyukoA_rigging_v01:hand_R
+    100038: CHyukoA_rigging_v01:handHR_L
+    100040: CHyukoA_rigging_v01:handHR_R
+    100042: CHyukoA_rigging_v01:head
+    100044: CHyukoA_rigging_v01:head_C
+    100046: CHyukoA_rigging_v01:hip_C
+    100048: CHyukoA_rigging_v01:indexBase_L
+    100050: CHyukoA_rigging_v01:indexBase_R
+    100052: CHyukoA_rigging_v01:indexMiddle_L
+    100054: CHyukoA_rigging_v01:indexMiddle_R
+    100056: CHyukoA_rigging_v01:indexRoot_L
+    100058: CHyukoA_rigging_v01:indexRoot_R
+    100060: CHyukoA_rigging_v01:indexTop_L
+    100062: CHyukoA_rigging_v01:indexTop_R
+    100064: CHyukoA_rigging_v01:kneeFrontTU_L
+    100066: CHyukoA_rigging_v01:kneeFrontTU_R
+    100068: CHyukoA_rigging_v01:legs
+    100070: CHyukoA_rigging_v01:lowarm_L
+    100072: CHyukoA_rigging_v01:lowarm_R
+    100074: CHyukoA_rigging_v01:lowarmHR_L
+    100076: CHyukoA_rigging_v01:lowarmHR_R
+    100078: CHyukoA_rigging_v01:lowarmTU_L
+    100080: CHyukoA_rigging_v01:lowarmTU_R
+    100082: CHyukoA_rigging_v01:lowarmTwista_L
+    100084: CHyukoA_rigging_v01:lowarmTwista_R
+    100086: CHyukoA_rigging_v01:lowarmTwistb_L
+    100088: CHyukoA_rigging_v01:lowarmTwistb_R
+    100090: CHyukoA_rigging_v01:lowarmTwistc_L
+    100092: CHyukoA_rigging_v01:lowarmTwistc_R
+    100094: CHyukoA_rigging_v01:lowleg_L
+    100096: CHyukoA_rigging_v01:lowleg_R
+    100098: CHyukoA_rigging_v01:lowlegHR_L
+    100100: CHyukoA_rigging_v01:lowlegHR_R
+    100102: CHyukoA_rigging_v01:lowlegTU_L
+    100104: CHyukoA_rigging_v01:lowlegTU_R
+    100106: CHyukoA_rigging_v01:lowlegTwista_L
+    100108: CHyukoA_rigging_v01:lowlegTwista_R
+    100110: CHyukoA_rigging_v01:lowlegTwistb_L
+    100112: CHyukoA_rigging_v01:lowlegTwistb_R
+    100114: CHyukoA_rigging_v01:lowlegTwistc_L
+    100116: CHyukoA_rigging_v01:lowlegTwistc_R
+    100118: CHyukoA_rigging_v01:mayu
+    100120: CHyukoA_rigging_v01:middleBase_L
+    100122: CHyukoA_rigging_v01:middleBase_R
+    100124: CHyukoA_rigging_v01:middleMiddle_L
+    100126: CHyukoA_rigging_v01:middleMiddle_R
+    100128: CHyukoA_rigging_v01:middleRoot_L
+    100130: CHyukoA_rigging_v01:middleRoot_R
+    100132: CHyukoA_rigging_v01:middleTop_L
+    100134: CHyukoA_rigging_v01:middleTop_R
+    100136: CHyukoA_rigging_v01:model_grp
+    100138: CHyukoA_rigging_v01:neck_C
+    100140: CHyukoA_rigging_v01:neckTwsta_C
+    100142: CHyukoA_rigging_v01:neckTwstb_C
+    100144: CHyukoA_rigging_v01:neckTwstc_C
+    100146: CHyukoA_rigging_v01:nose
+    100148: CHyukoA_rigging_v01:pants
+    100150: CHyukoA_rigging_v01:pinkyBase_L
+    100152: CHyukoA_rigging_v01:pinkyBase_R
+    100154: CHyukoA_rigging_v01:pinkyMiddle_L
+    100156: CHyukoA_rigging_v01:pinkyMiddle_R
+    100158: CHyukoA_rigging_v01:pinkyRoot_L
+    100160: CHyukoA_rigging_v01:pinkyRoot_R
+    100162: CHyukoA_rigging_v01:pinkyTop_L
+    100164: CHyukoA_rigging_v01:pinkyTop_R
+    100166: CHyukoA_rigging_v01:Reference
+    100168: CHyukoA_rigging_v01:ringBase_L
+    100170: CHyukoA_rigging_v01:ringBase_R
+    100172: CHyukoA_rigging_v01:ringMiddle_L
+    100174: CHyukoA_rigging_v01:ringMiddle_R
+    100176: CHyukoA_rigging_v01:ringRoot_L
+    100178: CHyukoA_rigging_v01:ringRoot_R
+    100180: CHyukoA_rigging_v01:ringTop_L
+    100182: CHyukoA_rigging_v01:ringTop_R
+    100184: CHyukoA_rigging_v01:scarf
+    100186: CHyukoA_rigging_v01:shirt
+    100188: CHyukoA_rigging_v01:shoes
+    100190: CHyukoA_rigging_v01:skin
+    100192: CHyukoA_rigging_v01:spineA_C
+    100194: CHyukoA_rigging_v01:spineB_C
+    100196: CHyukoA_rigging_v01:spineC_C
+    100198: CHyukoA_rigging_v01:thigh_L
+    100200: CHyukoA_rigging_v01:thigh_R
+    100202: CHyukoA_rigging_v01:thighTU_L
+    100204: CHyukoA_rigging_v01:thighTU_R
+    100206: CHyukoA_rigging_v01:thighTwista_L
+    100208: CHyukoA_rigging_v01:thighTwista_R
+    100210: CHyukoA_rigging_v01:thighTwistb_L
+    100212: CHyukoA_rigging_v01:thighTwistb_R
+    100214: CHyukoA_rigging_v01:thighTwistc_L
+    100216: CHyukoA_rigging_v01:thighTwistc_R
+    100218: CHyukoA_rigging_v01:thighVolB_L
+    100220: CHyukoA_rigging_v01:thighVolB_R
+    100222: CHyukoA_rigging_v01:thumbBase_L
+    100224: CHyukoA_rigging_v01:thumbBase_R
+    100226: CHyukoA_rigging_v01:thumbMiddle_L
+    100228: CHyukoA_rigging_v01:thumbMiddle_R
+    100230: CHyukoA_rigging_v01:thumbTop_L
+    100232: CHyukoA_rigging_v01:thumbTop_R
+    100234: CHyukoA_rigging_v01:toe_L
+    100236: CHyukoA_rigging_v01:toe_R
+    100238: CHyukoA_rigging_v01:tongue
+    100240: CHyukoA_rigging_v01:tooth
+    100242: CHyukoA_rigging_v01:uparm_L
+    100244: CHyukoA_rigging_v01:uparm_R
+    100246: CHyukoA_rigging_v01:uparmTU_L
+    100248: CHyukoA_rigging_v01:uparmTU_R
+    100250: CHyukoA_rigging_v01:uparmTwista_L
+    100252: CHyukoA_rigging_v01:uparmTwista_R
+    100254: CHyukoA_rigging_v01:uparmTwistb_L
+    100256: CHyukoA_rigging_v01:uparmTwistb_R
+    100258: CHyukoA_rigging_v01:uparmTwistc_L
+    100260: CHyukoA_rigging_v01:uparmTwistc_R
+    100262: CHyukoA_rigging_v01:wristInTU_L
+    100264: CHyukoA_rigging_v01:wristInTU_R
+    100266: CHyukoA_rigging_v01:wristOutTU_L
+    100268: CHyukoA_rigging_v01:wristOutTU_R
+    100270: //RootNode
+    400000: CHyukoA_rigging_v01:backKnee_L
+    400002: CHyukoA_rigging_v01:backKnee_R
+    400004: CHyukoA_rigging_v01:body
+    400006: CHyukoA_rigging_v01:calfVolA_L
+    400008: CHyukoA_rigging_v01:calfVolA_R
+    400010: CHyukoA_rigging_v01:clavicle_L
+    400012: CHyukoA_rigging_v01:clavicle_R
+    400014: CHyukoA_rigging_v01:collar
+    400016: CHyukoA_rigging_v01:cuffs
+    400018: CHyukoA_rigging_v01:elbow_L
+    400020: CHyukoA_rigging_v01:elbow_R
+    400022: CHyukoA_rigging_v01:eyeBall
+    400024: CHyukoA_rigging_v01:eyeHighLight
+    400026: CHyukoA_rigging_v01:eyeline
+    400028: CHyukoA_rigging_v01:foot_L
+    400030: CHyukoA_rigging_v01:foot_R
+    400032: CHyukoA_rigging_v01:hair
+    400034: CHyukoA_rigging_v01:hand_L
+    400036: CHyukoA_rigging_v01:hand_R
+    400038: CHyukoA_rigging_v01:handHR_L
+    400040: CHyukoA_rigging_v01:handHR_R
+    400042: CHyukoA_rigging_v01:head
+    400044: CHyukoA_rigging_v01:head_C
+    400046: CHyukoA_rigging_v01:hip_C
+    400048: CHyukoA_rigging_v01:indexBase_L
+    400050: CHyukoA_rigging_v01:indexBase_R
+    400052: CHyukoA_rigging_v01:indexMiddle_L
+    400054: CHyukoA_rigging_v01:indexMiddle_R
+    400056: CHyukoA_rigging_v01:indexRoot_L
+    400058: CHyukoA_rigging_v01:indexRoot_R
+    400060: CHyukoA_rigging_v01:indexTop_L
+    400062: CHyukoA_rigging_v01:indexTop_R
+    400064: CHyukoA_rigging_v01:kneeFrontTU_L
+    400066: CHyukoA_rigging_v01:kneeFrontTU_R
+    400068: CHyukoA_rigging_v01:legs
+    400070: CHyukoA_rigging_v01:lowarm_L
+    400072: CHyukoA_rigging_v01:lowarm_R
+    400074: CHyukoA_rigging_v01:lowarmHR_L
+    400076: CHyukoA_rigging_v01:lowarmHR_R
+    400078: CHyukoA_rigging_v01:lowarmTU_L
+    400080: CHyukoA_rigging_v01:lowarmTU_R
+    400082: CHyukoA_rigging_v01:lowarmTwista_L
+    400084: CHyukoA_rigging_v01:lowarmTwista_R
+    400086: CHyukoA_rigging_v01:lowarmTwistb_L
+    400088: CHyukoA_rigging_v01:lowarmTwistb_R
+    400090: CHyukoA_rigging_v01:lowarmTwistc_L
+    400092: CHyukoA_rigging_v01:lowarmTwistc_R
+    400094: CHyukoA_rigging_v01:lowleg_L
+    400096: CHyukoA_rigging_v01:lowleg_R
+    400098: CHyukoA_rigging_v01:lowlegHR_L
+    400100: CHyukoA_rigging_v01:lowlegHR_R
+    400102: CHyukoA_rigging_v01:lowlegTU_L
+    400104: CHyukoA_rigging_v01:lowlegTU_R
+    400106: CHyukoA_rigging_v01:lowlegTwista_L
+    400108: CHyukoA_rigging_v01:lowlegTwista_R
+    400110: CHyukoA_rigging_v01:lowlegTwistb_L
+    400112: CHyukoA_rigging_v01:lowlegTwistb_R
+    400114: CHyukoA_rigging_v01:lowlegTwistc_L
+    400116: CHyukoA_rigging_v01:lowlegTwistc_R
+    400118: CHyukoA_rigging_v01:mayu
+    400120: CHyukoA_rigging_v01:middleBase_L
+    400122: CHyukoA_rigging_v01:middleBase_R
+    400124: CHyukoA_rigging_v01:middleMiddle_L
+    400126: CHyukoA_rigging_v01:middleMiddle_R
+    400128: CHyukoA_rigging_v01:middleRoot_L
+    400130: CHyukoA_rigging_v01:middleRoot_R
+    400132: CHyukoA_rigging_v01:middleTop_L
+    400134: CHyukoA_rigging_v01:middleTop_R
+    400136: CHyukoA_rigging_v01:model_grp
+    400138: CHyukoA_rigging_v01:neck_C
+    400140: CHyukoA_rigging_v01:neckTwsta_C
+    400142: CHyukoA_rigging_v01:neckTwstb_C
+    400144: CHyukoA_rigging_v01:neckTwstc_C
+    400146: CHyukoA_rigging_v01:nose
+    400148: CHyukoA_rigging_v01:pants
+    400150: CHyukoA_rigging_v01:pinkyBase_L
+    400152: CHyukoA_rigging_v01:pinkyBase_R
+    400154: CHyukoA_rigging_v01:pinkyMiddle_L
+    400156: CHyukoA_rigging_v01:pinkyMiddle_R
+    400158: CHyukoA_rigging_v01:pinkyRoot_L
+    400160: CHyukoA_rigging_v01:pinkyRoot_R
+    400162: CHyukoA_rigging_v01:pinkyTop_L
+    400164: CHyukoA_rigging_v01:pinkyTop_R
+    400166: CHyukoA_rigging_v01:Reference
+    400168: CHyukoA_rigging_v01:ringBase_L
+    400170: CHyukoA_rigging_v01:ringBase_R
+    400172: CHyukoA_rigging_v01:ringMiddle_L
+    400174: CHyukoA_rigging_v01:ringMiddle_R
+    400176: CHyukoA_rigging_v01:ringRoot_L
+    400178: CHyukoA_rigging_v01:ringRoot_R
+    400180: CHyukoA_rigging_v01:ringTop_L
+    400182: CHyukoA_rigging_v01:ringTop_R
+    400184: CHyukoA_rigging_v01:scarf
+    400186: CHyukoA_rigging_v01:shirt
+    400188: CHyukoA_rigging_v01:shoes
+    400190: CHyukoA_rigging_v01:skin
+    400192: CHyukoA_rigging_v01:spineA_C
+    400194: CHyukoA_rigging_v01:spineB_C
+    400196: CHyukoA_rigging_v01:spineC_C
+    400198: CHyukoA_rigging_v01:thigh_L
+    400200: CHyukoA_rigging_v01:thigh_R
+    400202: CHyukoA_rigging_v01:thighTU_L
+    400204: CHyukoA_rigging_v01:thighTU_R
+    400206: CHyukoA_rigging_v01:thighTwista_L
+    400208: CHyukoA_rigging_v01:thighTwista_R
+    400210: CHyukoA_rigging_v01:thighTwistb_L
+    400212: CHyukoA_rigging_v01:thighTwistb_R
+    400214: CHyukoA_rigging_v01:thighTwistc_L
+    400216: CHyukoA_rigging_v01:thighTwistc_R
+    400218: CHyukoA_rigging_v01:thighVolB_L
+    400220: CHyukoA_rigging_v01:thighVolB_R
+    400222: CHyukoA_rigging_v01:thumbBase_L
+    400224: CHyukoA_rigging_v01:thumbBase_R
+    400226: CHyukoA_rigging_v01:thumbMiddle_L
+    400228: CHyukoA_rigging_v01:thumbMiddle_R
+    400230: CHyukoA_rigging_v01:thumbTop_L
+    400232: CHyukoA_rigging_v01:thumbTop_R
+    400234: CHyukoA_rigging_v01:toe_L
+    400236: CHyukoA_rigging_v01:toe_R
+    400238: CHyukoA_rigging_v01:tongue
+    400240: CHyukoA_rigging_v01:tooth
+    400242: CHyukoA_rigging_v01:uparm_L
+    400244: CHyukoA_rigging_v01:uparm_R
+    400246: CHyukoA_rigging_v01:uparmTU_L
+    400248: CHyukoA_rigging_v01:uparmTU_R
+    400250: CHyukoA_rigging_v01:uparmTwista_L
+    400252: CHyukoA_rigging_v01:uparmTwista_R
+    400254: CHyukoA_rigging_v01:uparmTwistb_L
+    400256: CHyukoA_rigging_v01:uparmTwistb_R
+    400258: CHyukoA_rigging_v01:uparmTwistc_L
+    400260: CHyukoA_rigging_v01:uparmTwistc_R
+    400262: CHyukoA_rigging_v01:wristInTU_L
+    400264: CHyukoA_rigging_v01:wristInTU_R
+    400266: CHyukoA_rigging_v01:wristOutTU_L
+    400268: CHyukoA_rigging_v01:wristOutTU_R
+    400270: //RootNode
+    4300000: CHyukoA_rigging_v01:tongue
+    4300002: CHyukoA_rigging_v01:hair
+    4300004: CHyukoA_rigging_v01:eyeline
+    4300006: CHyukoA_rigging_v01:eyeBall
+    4300008: CHyukoA_rigging_v01:nose
+    4300010: CHyukoA_rigging_v01:mayu
+    4300012: CHyukoA_rigging_v01:tooth
+    4300014: CHyukoA_rigging_v01:eyeHighLight
+    4300016: CHyukoA_rigging_v01:head
+    4300018: CHyukoA_rigging_v01:skin
+    4300020: CHyukoA_rigging_v01:pants
+    4300022: CHyukoA_rigging_v01:legs
+    4300024: CHyukoA_rigging_v01:shoes
+    4300026: CHyukoA_rigging_v01:shirt
+    4300028: CHyukoA_rigging_v01:body
+    4300030: CHyukoA_rigging_v01:cuffs
+    4300032: CHyukoA_rigging_v01:scarf
+    4300034: CHyukoA_rigging_v01:collar
+    7400000: yukoC01_a01
+    9500000: //RootNode
+    13700000: CHyukoA_rigging_v01:body
+    13700002: CHyukoA_rigging_v01:collar
+    13700004: CHyukoA_rigging_v01:cuffs
+    13700006: CHyukoA_rigging_v01:eyeBall
+    13700008: CHyukoA_rigging_v01:eyeHighLight
+    13700010: CHyukoA_rigging_v01:eyeline
+    13700012: CHyukoA_rigging_v01:hair
+    13700014: CHyukoA_rigging_v01:head
+    13700016: CHyukoA_rigging_v01:legs
+    13700018: CHyukoA_rigging_v01:mayu
+    13700020: CHyukoA_rigging_v01:nose
+    13700022: CHyukoA_rigging_v01:pants
+    13700024: CHyukoA_rigging_v01:scarf
+    13700026: CHyukoA_rigging_v01:shirt
+    13700028: CHyukoA_rigging_v01:shoes
+    13700030: CHyukoA_rigging_v01:skin
+    13700032: CHyukoA_rigging_v01:tongue
+    13700034: CHyukoA_rigging_v01:tooth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: yukoC01_a01
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 91
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:body
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:collar
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:cuffs
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:eyeBall
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:eyeHighLight
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:eyeline
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:hair
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:head
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:legs
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:mayu
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:nose
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:pants
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:scarf
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:shirt
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:shoes
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:skin
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:tongue
+        weight: 1
+      - path: CHyukoA_rigging_v01:model_grp/CHyukoA_rigging_v01:tooth
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTU_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:indexRoot_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:indexRoot_L/CHyukoA_rigging_v01:indexBase_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:indexRoot_L/CHyukoA_rigging_v01:indexBase_L/CHyukoA_rigging_v01:indexMiddle_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:indexRoot_L/CHyukoA_rigging_v01:indexBase_L/CHyukoA_rigging_v01:indexMiddle_L/CHyukoA_rigging_v01:indexTop_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:middleRoot_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:middleRoot_L/CHyukoA_rigging_v01:middleBase_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:middleRoot_L/CHyukoA_rigging_v01:middleBase_L/CHyukoA_rigging_v01:middleMiddle_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:middleRoot_L/CHyukoA_rigging_v01:middleBase_L/CHyukoA_rigging_v01:middleMiddle_L/CHyukoA_rigging_v01:middleTop_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:pinkyRoot_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:pinkyRoot_L/CHyukoA_rigging_v01:pinkyBase_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:pinkyRoot_L/CHyukoA_rigging_v01:pinkyBase_L/CHyukoA_rigging_v01:pinkyMiddle_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:pinkyRoot_L/CHyukoA_rigging_v01:pinkyBase_L/CHyukoA_rigging_v01:pinkyMiddle_L/CHyukoA_rigging_v01:pinkyTop_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:ringRoot_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:ringRoot_L/CHyukoA_rigging_v01:ringBase_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:ringRoot_L/CHyukoA_rigging_v01:ringBase_L/CHyukoA_rigging_v01:ringMiddle_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:ringRoot_L/CHyukoA_rigging_v01:ringBase_L/CHyukoA_rigging_v01:ringMiddle_L/CHyukoA_rigging_v01:ringTop_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:thumbBase_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:thumbBase_L/CHyukoA_rigging_v01:thumbMiddle_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:hand_L/CHyukoA_rigging_v01:thumbBase_L/CHyukoA_rigging_v01:thumbMiddle_L/CHyukoA_rigging_v01:thumbTop_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:handHR_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:handHR_L/CHyukoA_rigging_v01:wristInTU_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarm_L/CHyukoA_rigging_v01:lowarmTwista_L/CHyukoA_rigging_v01:lowarmTwistb_L/CHyukoA_rigging_v01:lowarmTwistc_L/CHyukoA_rigging_v01:handHR_L/CHyukoA_rigging_v01:wristOutTU_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarmHR_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:lowarmHR_L/CHyukoA_rigging_v01:elbow_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_L/CHyukoA_rigging_v01:uparm_L/CHyukoA_rigging_v01:uparmTwista_L/CHyukoA_rigging_v01:uparmTwistb_L/CHyukoA_rigging_v01:uparmTwistc_L/CHyukoA_rigging_v01:uparmTU_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTU_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:indexRoot_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:indexRoot_R/CHyukoA_rigging_v01:indexBase_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:indexRoot_R/CHyukoA_rigging_v01:indexBase_R/CHyukoA_rigging_v01:indexMiddle_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:indexRoot_R/CHyukoA_rigging_v01:indexBase_R/CHyukoA_rigging_v01:indexMiddle_R/CHyukoA_rigging_v01:indexTop_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:middleRoot_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:middleRoot_R/CHyukoA_rigging_v01:middleBase_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:middleRoot_R/CHyukoA_rigging_v01:middleBase_R/CHyukoA_rigging_v01:middleMiddle_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:middleRoot_R/CHyukoA_rigging_v01:middleBase_R/CHyukoA_rigging_v01:middleMiddle_R/CHyukoA_rigging_v01:middleTop_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:pinkyRoot_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:pinkyRoot_R/CHyukoA_rigging_v01:pinkyBase_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:pinkyRoot_R/CHyukoA_rigging_v01:pinkyBase_R/CHyukoA_rigging_v01:pinkyMiddle_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:pinkyRoot_R/CHyukoA_rigging_v01:pinkyBase_R/CHyukoA_rigging_v01:pinkyMiddle_R/CHyukoA_rigging_v01:pinkyTop_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:ringRoot_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:ringRoot_R/CHyukoA_rigging_v01:ringBase_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:ringRoot_R/CHyukoA_rigging_v01:ringBase_R/CHyukoA_rigging_v01:ringMiddle_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:ringRoot_R/CHyukoA_rigging_v01:ringBase_R/CHyukoA_rigging_v01:ringMiddle_R/CHyukoA_rigging_v01:ringTop_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:thumbBase_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:thumbBase_R/CHyukoA_rigging_v01:thumbMiddle_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:hand_R/CHyukoA_rigging_v01:thumbBase_R/CHyukoA_rigging_v01:thumbMiddle_R/CHyukoA_rigging_v01:thumbTop_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:handHR_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:handHR_R/CHyukoA_rigging_v01:wristInTU_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarm_R/CHyukoA_rigging_v01:lowarmTwista_R/CHyukoA_rigging_v01:lowarmTwistb_R/CHyukoA_rigging_v01:lowarmTwistc_R/CHyukoA_rigging_v01:handHR_R/CHyukoA_rigging_v01:wristOutTU_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarmHR_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:lowarmHR_R/CHyukoA_rigging_v01:elbow_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:clavicle_R/CHyukoA_rigging_v01:uparm_R/CHyukoA_rigging_v01:uparmTwista_R/CHyukoA_rigging_v01:uparmTwistb_R/CHyukoA_rigging_v01:uparmTwistc_R/CHyukoA_rigging_v01:uparmTU_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:neck_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:neck_C/CHyukoA_rigging_v01:neckTwsta_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:neck_C/CHyukoA_rigging_v01:neckTwsta_C/CHyukoA_rigging_v01:neckTwstb_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:neck_C/CHyukoA_rigging_v01:neckTwsta_C/CHyukoA_rigging_v01:neckTwstb_C/CHyukoA_rigging_v01:neckTwstc_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:spineA_C/CHyukoA_rigging_v01:spineB_C/CHyukoA_rigging_v01:spineC_C/CHyukoA_rigging_v01:neck_C/CHyukoA_rigging_v01:neckTwsta_C/CHyukoA_rigging_v01:neckTwstb_C/CHyukoA_rigging_v01:neckTwstc_C/CHyukoA_rigging_v01:head_C
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L/CHyukoA_rigging_v01:lowlegTU_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L/CHyukoA_rigging_v01:lowlegTwista_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L/CHyukoA_rigging_v01:lowlegTwista_L/CHyukoA_rigging_v01:calfVolA_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L/CHyukoA_rigging_v01:lowlegTwista_L/CHyukoA_rigging_v01:lowlegTwistb_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L/CHyukoA_rigging_v01:lowlegTwista_L/CHyukoA_rigging_v01:lowlegTwistb_L/CHyukoA_rigging_v01:lowlegTwistc_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L/CHyukoA_rigging_v01:lowlegTwista_L/CHyukoA_rigging_v01:lowlegTwistb_L/CHyukoA_rigging_v01:lowlegTwistc_L/CHyukoA_rigging_v01:foot_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowleg_L/CHyukoA_rigging_v01:lowlegTwista_L/CHyukoA_rigging_v01:lowlegTwistb_L/CHyukoA_rigging_v01:lowlegTwistc_L/CHyukoA_rigging_v01:foot_L/CHyukoA_rigging_v01:toe_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowlegHR_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowlegHR_L/CHyukoA_rigging_v01:backKnee_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:lowlegHR_L/CHyukoA_rigging_v01:kneeFrontTU_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighTwistc_L/CHyukoA_rigging_v01:thighTU_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_L/CHyukoA_rigging_v01:thighTwista_L/CHyukoA_rigging_v01:thighTwistb_L/CHyukoA_rigging_v01:thighVolB_L
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R/CHyukoA_rigging_v01:lowlegTU_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R/CHyukoA_rigging_v01:lowlegTwista_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R/CHyukoA_rigging_v01:lowlegTwista_R/CHyukoA_rigging_v01:calfVolA_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R/CHyukoA_rigging_v01:lowlegTwista_R/CHyukoA_rigging_v01:lowlegTwistb_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R/CHyukoA_rigging_v01:lowlegTwista_R/CHyukoA_rigging_v01:lowlegTwistb_R/CHyukoA_rigging_v01:lowlegTwistc_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R/CHyukoA_rigging_v01:lowlegTwista_R/CHyukoA_rigging_v01:lowlegTwistb_R/CHyukoA_rigging_v01:lowlegTwistc_R/CHyukoA_rigging_v01:foot_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowleg_R/CHyukoA_rigging_v01:lowlegTwista_R/CHyukoA_rigging_v01:lowlegTwistb_R/CHyukoA_rigging_v01:lowlegTwistc_R/CHyukoA_rigging_v01:foot_R/CHyukoA_rigging_v01:toe_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowlegHR_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowlegHR_R/CHyukoA_rigging_v01:backKnee_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:lowlegHR_R/CHyukoA_rigging_v01:kneeFrontTU_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighTwistc_R/CHyukoA_rigging_v01:thighTU_R
+        weight: 1
+      - path: CHyukoA_rigging_v01:Reference/CHyukoA_rigging_v01:hip_C/CHyukoA_rigging_v01:thigh_R/CHyukoA_rigging_v01:thighTwista_R/CHyukoA_rigging_v01:thighTwistb_R/CHyukoA_rigging_v01:thighVolB_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

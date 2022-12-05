@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 531cfd96c93888f4299c531341e7b827
+timeCreated: 1488336196
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armcover
+    100002: belt
+    100004: body
+    100006: collar
+    100008: cuffs
+    100010: eyeHighLight
+    100012: eyeline
+    100014: frill
+    100016: hairBackBottom
+    100018: hairBackTop
+    100020: hairFront
+    100022: hairSide
+    100024: hairUnder
+    100026: head
+    100028: horn
+    100030: //RootNode
+    100032: legs
+    100034: mantle
+    100036: mayu
+    100038: pants
+    100040: scarf
+    100042: shirt
+    100044: shoes
+    100046: shoesExtend
+    100048: skin
+    100050: tongue
+    100052: wristband
+    400000: armcover
+    400002: belt
+    400004: body
+    400006: collar
+    400008: cuffs
+    400010: eyeHighLight
+    400012: eyeline
+    400014: frill
+    400016: hairBackBottom
+    400018: hairBackTop
+    400020: hairFront
+    400022: hairSide
+    400024: hairUnder
+    400026: head
+    400028: horn
+    400030: //RootNode
+    400032: legs
+    400034: mantle
+    400036: mayu
+    400038: pants
+    400040: scarf
+    400042: shirt
+    400044: shoes
+    400046: shoesExtend
+    400048: skin
+    400050: tongue
+    400052: wristband
+    2300000: armcover
+    2300002: belt
+    2300004: body
+    2300006: collar
+    2300008: cuffs
+    2300010: eyeHighLight
+    2300012: eyeline
+    2300014: frill
+    2300016: hairBackBottom
+    2300018: hairBackTop
+    2300020: hairFront
+    2300022: hairSide
+    2300024: hairUnder
+    2300026: head
+    2300028: horn
+    2300030: legs
+    2300032: mantle
+    2300034: mayu
+    2300036: pants
+    2300038: scarf
+    2300040: shirt
+    2300042: shoes
+    2300044: shoesExtend
+    2300046: skin
+    2300048: tongue
+    2300050: wristband
+    3300000: armcover
+    3300002: belt
+    3300004: body
+    3300006: collar
+    3300008: cuffs
+    3300010: eyeHighLight
+    3300012: eyeline
+    3300014: frill
+    3300016: hairBackBottom
+    3300018: hairBackTop
+    3300020: hairFront
+    3300022: hairSide
+    3300024: hairUnder
+    3300026: head
+    3300028: horn
+    3300030: legs
+    3300032: mantle
+    3300034: mayu
+    3300036: pants
+    3300038: scarf
+    3300040: shirt
+    3300042: shoes
+    3300044: shoesExtend
+    3300046: skin
+    3300048: tongue
+    3300050: wristband
+    4300000: horn
+    4300002: head
+    4300004: eyeHighLight
+    4300006: eyeline
+    4300008: mayu
+    4300010: tongue
+    4300012: skin
+    4300014: pants
+    4300016: legs
+    4300018: shoes
+    4300020: shoesExtend
+    4300022: shirt
+    4300024: body
+    4300026: cuffs
+    4300028: scarf
+    4300030: collar
+    4300032: armcover
+    4300034: wristband
+    4300036: belt
+    4300038: frill
+    4300040: mantle
+    4300042: hairUnder
+    4300044: hairBackTop
+    4300046: hairBackBottom
+    4300048: hairSide
+    4300050: hairFront
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

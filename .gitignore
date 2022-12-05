@@ -79,7 +79,7 @@ Desktop.ini
 
 *.vsconfig
 
-*.meta
+# *.meta
 
 /Assets/Models/BG/02_House/unity_c06_bg_0524.psd
 /Assets/Models/BG/04_HighWay/images/unity_sora_0525_A.psd

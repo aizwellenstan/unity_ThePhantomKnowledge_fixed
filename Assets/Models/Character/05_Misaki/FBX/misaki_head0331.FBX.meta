@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 3b06a9ed829040c4499c670425faa79f
+timeCreated: 1491202565
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: misaki_eyeBall
+    100002: misaki_eyeHighLight
+    100004: misaki_eyeline
+    100006: misaki_hair
+    100008: misaki_hairFront
+    100010: misaki_hairTail
+    100012: misaki_head
+    100014: //RootNode
+    100016: misaki_headNose
+    100018: misaki_mayu
+    100020: misaki_ribbon
+    100022: misaki_tongue
+    100024: misaki_tooth
+    400000: misaki_eyeBall
+    400002: misaki_eyeHighLight
+    400004: misaki_eyeline
+    400006: misaki_hair
+    400008: misaki_hairFront
+    400010: misaki_hairTail
+    400012: misaki_head
+    400014: //RootNode
+    400016: misaki_headNose
+    400018: misaki_mayu
+    400020: misaki_ribbon
+    400022: misaki_tongue
+    400024: misaki_tooth
+    2300000: misaki_eyeBall
+    2300002: misaki_eyeHighLight
+    2300004: misaki_eyeline
+    2300006: misaki_hair
+    2300008: misaki_hairFront
+    2300010: misaki_hairTail
+    2300012: misaki_head
+    2300014: misaki_headNose
+    2300016: misaki_mayu
+    2300018: misaki_ribbon
+    2300020: misaki_tongue
+    2300022: misaki_tooth
+    3300000: misaki_eyeBall
+    3300002: misaki_eyeHighLight
+    3300004: misaki_eyeline
+    3300006: misaki_hair
+    3300008: misaki_hairFront
+    3300010: misaki_hairTail
+    3300012: misaki_head
+    3300014: misaki_headNose
+    3300016: misaki_mayu
+    3300018: misaki_ribbon
+    3300020: misaki_tongue
+    3300022: misaki_tooth
+    4300000: misaki_eyeline
+    4300002: misaki_hair
+    4300004: misaki_ribbon
+    4300006: misaki_hairTail
+    4300008: misaki_hairFront
+    4300010: misaki_eyeBall
+    4300012: misaki_tooth
+    4300014: misaki_tongue
+    4300016: misaki_headNose
+    4300018: misaki_eyeHighLight
+    4300020: misaki_mayu
+    4300022: misaki_head
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

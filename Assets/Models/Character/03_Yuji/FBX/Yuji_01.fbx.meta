@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 69c0cd686c9d3234e89a2cd5c6705e9d
+timeCreated: 1487169693
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: M_Arm [id:00000004]
+    100002: M_Cape [id:0000000a]
+    100004: M_Hand [id:00000008]
+    100006: M_Pants [id:00000009]
+    100008: M_Shirt [id:00000003]
+    100010: M_Shoes [id:00000002]
+    100012: M_Skin [id:00000006]
+    100014: M_WestParts [id:00000001]
+    100016: obj1 [id:00000007]
+    100018: //RootNode
+    100020: yuji_brow
+    100022: yuji_eyeball
+    100024: yuji_eyeballHL
+    100026: yuji_hair
+    100028: yuji_hairNormal
+    100030: yuji_head
+    100032: yuji_tongue
+    100034: yuji_Arm
+    100036: yuji_Brow
+    100038: yuji_Cape
+    100040: yuji_Eyeball
+    100042: yuji_EyeballHL
+    100044: yuji_Hair
+    100046: yuji_HairNormal
+    100048: yuji_Hand
+    100050: yuji_Head
+    100052: yuji_HeadNormal
+    100054: yuji_Inner
+    100056: yuji_Pants
+    100058: yuji_Saya
+    100060: yuji_Shirt
+    100062: yuji_Shoes
+    100064: yuji_Skin
+    100066: yuji_Sword
+    100068: yuji_Tongue
+    100070: yuji_Tooth
+    100072: yuji_WaistParts
+    100074: Arm
+    100076: Brow
+    100078: Cape
+    100080: Eyeball
+    100082: EyeballHL
+    100084: Hair
+    100086: HairNormal
+    100088: Hand
+    100090: Head
+    100092: HeadNormal
+    100094: Inner
+    100096: Pants
+    100098: Saya
+    100100: Shirt
+    100102: Shoes
+    100104: Skin
+    100106: Sword
+    100108: Tongue
+    100110: Tooth
+    100112: WaistParts
+    400000: M_Arm [id:00000004]
+    400002: M_Cape [id:0000000a]
+    400004: M_Hand [id:00000008]
+    400006: M_Pants [id:00000009]
+    400008: M_Shirt [id:00000003]
+    400010: M_Shoes [id:00000002]
+    400012: M_Skin [id:00000006]
+    400014: M_WestParts [id:00000001]
+    400016: obj1 [id:00000007]
+    400018: //RootNode
+    400020: yuji_brow
+    400022: yuji_eyeball
+    400024: yuji_eyeballHL
+    400026: yuji_hair
+    400028: yuji_hairNormal
+    400030: yuji_head
+    400032: yuji_tongue
+    400034: yuji_Arm
+    400036: yuji_Brow
+    400038: yuji_Cape
+    400040: yuji_Eyeball
+    400042: yuji_EyeballHL
+    400044: yuji_Hair
+    400046: yuji_HairNormal
+    400048: yuji_Hand
+    400050: yuji_Head
+    400052: yuji_HeadNormal
+    400054: yuji_Inner
+    400056: yuji_Pants
+    400058: yuji_Saya
+    400060: yuji_Shirt
+    400062: yuji_Shoes
+    400064: yuji_Skin
+    400066: yuji_Sword
+    400068: yuji_Tongue
+    400070: yuji_Tooth
+    400072: yuji_WaistParts
+    400074: Arm
+    400076: Brow
+    400078: Cape
+    400080: Eyeball
+    400082: EyeballHL
+    400084: Hair
+    400086: HairNormal
+    400088: Hand
+    400090: Head
+    400092: HeadNormal
+    400094: Inner
+    400096: Pants
+    400098: Saya
+    400100: Shirt
+    400102: Shoes
+    400104: Skin
+    400106: Sword
+    400108: Tongue
+    400110: Tooth
+    400112: WaistParts
+    2300000: M_Arm [id:00000004]
+    2300002: M_Cape [id:0000000a]
+    2300004: M_Hand [id:00000008]
+    2300006: M_Pants [id:00000009]
+    2300008: M_Shirt [id:00000003]
+    2300010: M_Shoes [id:00000002]
+    2300012: M_Skin [id:00000006]
+    2300014: M_WestParts [id:00000001]
+    2300016: obj1 [id:00000007]
+    2300018: yuji_brow
+    2300020: yuji_eyeball
+    2300022: yuji_eyeballHL
+    2300024: yuji_hair
+    2300026: yuji_hairNormal
+    2300028: yuji_head
+    2300030: yuji_tongue
+    2300032: yuji_Arm
+    2300034: yuji_Brow
+    2300036: yuji_Cape
+    2300038: yuji_Eyeball
+    2300040: yuji_EyeballHL
+    2300042: yuji_Hair
+    2300044: yuji_HairNormal
+    2300046: yuji_Hand
+    2300048: yuji_Head
+    2300050: yuji_HeadNormal
+    2300052: yuji_Inner
+    2300054: yuji_Pants
+    2300056: yuji_Saya
+    2300058: yuji_Shirt
+    2300060: yuji_Shoes
+    2300062: yuji_Skin
+    2300064: yuji_Sword
+    2300066: yuji_Tongue
+    2300068: yuji_Tooth
+    2300070: yuji_WaistParts
+    2300072: Arm
+    2300074: Brow
+    2300076: Cape
+    2300078: Eyeball
+    2300080: EyeballHL
+    2300082: Hair
+    2300084: HairNormal
+    2300086: Hand
+    2300088: Head
+    2300090: HeadNormal
+    2300092: Inner
+    2300094: Pants
+    2300096: Saya
+    2300098: Shirt
+    2300100: Shoes
+    2300102: Skin
+    2300104: Sword
+    2300106: Tongue
+    2300108: Tooth
+    2300110: WaistParts
+    3300000: M_Arm [id:00000004]
+    3300002: M_Cape [id:0000000a]
+    3300004: M_Hand [id:00000008]
+    3300006: M_Pants [id:00000009]
+    3300008: M_Shirt [id:00000003]
+    3300010: M_Shoes [id:00000002]
+    3300012: M_Skin [id:00000006]
+    3300014: M_WestParts [id:00000001]
+    3300016: obj1 [id:00000007]
+    3300018: yuji_brow
+    3300020: yuji_eyeball
+    3300022: yuji_eyeballHL
+    3300024: yuji_hair
+    3300026: yuji_hairNormal
+    3300028: yuji_head
+    3300030: yuji_tongue
+    3300032: yuji_Arm
+    3300034: yuji_Brow
+    3300036: yuji_Cape
+    3300038: yuji_Eyeball
+    3300040: yuji_EyeballHL
+    3300042: yuji_Hair
+    3300044: yuji_HairNormal
+    3300046: yuji_Hand
+    3300048: yuji_Head
+    3300050: yuji_HeadNormal
+    3300052: yuji_Inner
+    3300054: yuji_Pants
+    3300056: yuji_Saya
+    3300058: yuji_Shirt
+    3300060: yuji_Shoes
+    3300062: yuji_Skin
+    3300064: yuji_Sword
+    3300066: yuji_Tongue
+    3300068: yuji_Tooth
+    3300070: yuji_WaistParts
+    3300072: Arm
+    3300074: Brow
+    3300076: Cape
+    3300078: Eyeball
+    3300080: EyeballHL
+    3300082: Hair
+    3300084: HairNormal
+    3300086: Hand
+    3300088: Head
+    3300090: HeadNormal
+    3300092: Inner
+    3300094: Pants
+    3300096: Saya
+    3300098: Shirt
+    3300100: Shoes
+    3300102: Skin
+    3300104: Sword
+    3300106: Tongue
+    3300108: Tooth
+    3300110: WaistParts
+    4300000: M_WestParts [id:00000001]
+    4300002: M_Shoes [id:00000002]
+    4300004: M_Shirt [id:00000003]
+    4300006: M_Arm [id:00000004]
+    4300008: M_Skin [id:00000006]
+    4300010: obj1 [id:00000007]
+    4300012: M_Hand [id:00000008]
+    4300014: M_Pants [id:00000009]
+    4300016: M_Cape [id:0000000a]
+    4300018: yuji_eyeball
+    4300020: yuji_eyeballHL
+    4300022: yuji_head
+    4300024: yuji_tongue
+    4300026: yuji_hair
+    4300028: yuji_brow
+    4300030: yuji_hairNormal
+    4300032: yuji_WaistParts
+    4300034: yuji_Shoes
+    4300036: yuji_Shirt
+    4300038: yuji_Arm
+    4300040: yuji_Skin
+    4300042: yuji_Inner
+    4300044: yuji_Hand
+    4300046: yuji_Pants
+    4300048: yuji_Cape
+    4300050: yuji_HeadNormal
+    4300052: yuji_Tongue
+    4300054: yuji_Hair
+    4300056: yuji_HairNormal
+    4300058: yuji_Brow
+    4300060: yuji_Sword
+    4300062: yuji_Saya
+    4300064: yuji_Tooth
+    4300066: yuji_Eyeball
+    4300068: yuji_EyeballHL
+    4300070: yuji_Head
+    4300072: WaistParts
+    4300074: Shoes
+    4300076: Shirt
+    4300078: Arm
+    4300080: Skin
+    4300082: Inner
+    4300084: Hand
+    4300086: Pants
+    4300088: Cape
+    4300090: Eyeball
+    4300092: EyeballHL
+    4300094: Tooth
+    4300096: Head
+    4300098: HeadNormal
+    4300100: Tongue
+    4300102: Hair
+    4300104: HairNormal
+    4300106: Brow
+    4300108: Sword
+    4300110: Saya
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

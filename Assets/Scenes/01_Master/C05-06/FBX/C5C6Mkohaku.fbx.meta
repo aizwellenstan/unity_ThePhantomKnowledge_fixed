@@ -1,0 +1,1173 @@
+fileFormatVersion: 2
+guid: 1971e2d81c6ed70478e1e68aaddcce16
+timeCreated: 1490766882
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CHunitychan:armcover
+    100004: CHunitychan:backKnee_L
+    100006: CHunitychan:backKnee_R
+    100008: CHunitychan:belt
+    100010: CHunitychan:body
+    100012: CHunitychan:browA_L
+    100014: CHunitychan:browA_R
+    100016: CHunitychan:browB_L
+    100018: CHunitychan:browB_R
+    100020: CHunitychan:browC_L
+    100022: CHunitychan:browC_R
+    100024: CHunitychan:browD_L
+    100026: CHunitychan:browD_R
+    100028: CHunitychan:browE_L
+    100030: CHunitychan:browE_R
+    100032: CHunitychan:btmCornerEyeline_L
+    100034: CHunitychan:btmCornerEyeline_R
+    100036: CHunitychan:btmEyelineA_L
+    100038: CHunitychan:btmEyelineA_R
+    100040: CHunitychan:btmEyelineB_L
+    100042: CHunitychan:btmEyelineB_R
+    100044: CHunitychan:btmEyelineC_L
+    100046: CHunitychan:btmEyelineC_R
+    100048: CHunitychan:btmLip_C
+    100050: CHunitychan:btmLipA_L
+    100052: CHunitychan:btmLipA_R
+    100054: CHunitychan:btmLipB_L
+    100056: CHunitychan:btmLipB_R
+    100058: CHunitychan:btmLipC_L
+    100060: CHunitychan:btmLipC_R
+    100062: CHunitychan:btmTooth_C
+    100064: CHunitychan:btmTooth_L
+    100066: CHunitychan:btmTooth_R
+    100068: CHunitychan:calfVolA_L
+    100070: CHunitychan:calfVolA_R
+    100072: CHunitychan:clavicle_L
+    100074: CHunitychan:clavicle_R
+    100076: CHunitychan:collar
+    100078: CHunitychan:cornerEyeline_L
+    100080: CHunitychan:cornerEyeline_R
+    100082: CHunitychan:cuffs
+    100084: CHunitychan:ear_L
+    100086: CHunitychan:ear_R
+    100088: CHunitychan:elbow_L
+    100090: CHunitychan:elbow_R
+    100092: CHunitychan:eye_L
+    100094: CHunitychan:eye_R
+    100096: CHunitychan:eyeBall
+    100098: CHunitychan:eyeHighLight
+    100100: CHunitychan:eyeHighlightA_L
+    100102: CHunitychan:eyeHighlightA_R
+    100104: CHunitychan:eyeHighlightB_L
+    100106: CHunitychan:eyeHighlightB_R
+    100108: CHunitychan:eyeHighlightC_L
+    100110: CHunitychan:eyeHighlightC_R
+    100112: CHunitychan:eyelidlineA_L
+    100114: CHunitychan:eyelidlineA_R
+    100116: CHunitychan:eyelidlineB_L
+    100118: CHunitychan:eyelidlineB_R
+    100120: CHunitychan:eyelidlineC_L
+    100122: CHunitychan:eyelidlineC_R
+    100124: CHunitychan:eyeline
+    100126: CHunitychan:foot_L
+    100128: CHunitychan:foot_R
+    100130: CHunitychan:frill
+    100132: CHunitychan:hairBack
+    100134: CHunitychan:hairFront
+    100136: CHunitychan:hairSide
+    100138: CHunitychan:hairUnder
+    100140: CHunitychan:hand_L
+    100142: CHunitychan:hand_R
+    100144: CHunitychan:handHR_L
+    100146: CHunitychan:handHR_R
+    100148: CHunitychan:head
+    100150: CHunitychan:head_C
+    100152: CHunitychan:headNose
+    100154: CHunitychan:hip_C
+    100156: CHunitychan:horn
+    100158: CHunitychan:hornA_L
+    100160: CHunitychan:hornA_R
+    100162: CHunitychan:hornB_L
+    100164: CHunitychan:hornB_R
+    100166: CHunitychan:hornC_L
+    100168: CHunitychan:hornC_R
+    100170: CHunitychan:hornD_L
+    100172: CHunitychan:hornD_R
+    100174: CHunitychan:indexBase_L
+    100176: CHunitychan:indexBase_R
+    100178: CHunitychan:indexMiddle_L
+    100180: CHunitychan:indexMiddle_R
+    100182: CHunitychan:indexRoot_L
+    100184: CHunitychan:indexRoot_R
+    100186: CHunitychan:indexTop_L
+    100188: CHunitychan:indexTop_R
+    100190: CHunitychan:innerEyeline_L
+    100192: CHunitychan:innerEyeline_R
+    100194: CHunitychan:jaw
+    100196: CHunitychan:jawAll
+    100198: CHunitychan:jawAllSub
+    100200: CHunitychan:jawLine_C
+    100202: CHunitychan:jawLineA_L
+    100204: CHunitychan:jawLineA_R
+    100206: CHunitychan:jawLineB_L
+    100208: CHunitychan:jawLineB_R
+    100210: CHunitychan:jawLineC_L
+    100212: CHunitychan:jawLineC_R
+    100214: CHunitychan:jawLineD_L
+    100216: CHunitychan:jawLineD_R
+    100218: CHunitychan:kneeFrontTU_L
+    100220: CHunitychan:kneeFrontTU_R
+    100222: CHunitychan:kwep_exebreaker
+    100224: CHunitychan:legs
+    100226: CHunitychan:lowarm_L
+    100228: CHunitychan:lowarm_R
+    100230: CHunitychan:lowarmHR_L
+    100232: CHunitychan:lowarmHR_R
+    100234: CHunitychan:lowarmTU_L
+    100236: CHunitychan:lowarmTU_R
+    100238: CHunitychan:lowarmTwista_L
+    100240: CHunitychan:lowarmTwista_R
+    100242: CHunitychan:lowarmTwistb_L
+    100244: CHunitychan:lowarmTwistb_R
+    100246: CHunitychan:lowarmTwistc_L
+    100248: CHunitychan:lowarmTwistc_R
+    100250: CHunitychan:lowleg_L
+    100252: CHunitychan:lowleg_R
+    100254: CHunitychan:lowlegHR_L
+    100256: CHunitychan:lowlegHR_R
+    100258: CHunitychan:lowlegTU_L
+    100260: CHunitychan:lowlegTU_R
+    100262: CHunitychan:lowlegTwista_L
+    100264: CHunitychan:lowlegTwista_R
+    100266: CHunitychan:lowlegTwistb_L
+    100268: CHunitychan:lowlegTwistb_R
+    100270: CHunitychan:lowlegTwistc_L
+    100272: CHunitychan:lowlegTwistc_R
+    100274: CHunitychan:mantle
+    100276: CHunitychan:mayu
+    100278: CHunitychan:middleBase_L
+    100280: CHunitychan:middleBase_R
+    100282: CHunitychan:middleMiddle_L
+    100284: CHunitychan:middleMiddle_R
+    100286: CHunitychan:middleRoot_L
+    100288: CHunitychan:middleRoot_R
+    100290: CHunitychan:middleTop_L
+    100292: CHunitychan:middleTop_R
+    100294: CHunitychan:model_grp
+    100296: CHunitychan:mouthBtmCtrl
+    100298: CHunitychan:neck_C
+    100300: CHunitychan:neckTwsta_C
+    100302: CHunitychan:neckTwstb_C
+    100304: CHunitychan:neckTwstc_C
+    100306: CHunitychan:noseBtm_C
+    100308: CHunitychan:noseRoot_C
+    100310: CHunitychan:noseTop_C
+    100312: CHunitychan:pants
+    100314: CHunitychan:pinkyBase_L
+    100316: CHunitychan:pinkyBase_R
+    100318: CHunitychan:pinkyMiddle_L
+    100320: CHunitychan:pinkyMiddle_R
+    100322: CHunitychan:pinkyRoot_L
+    100324: CHunitychan:pinkyRoot_R
+    100326: CHunitychan:pinkyTop_L
+    100328: CHunitychan:pinkyTop_R
+    100330: CHunitychan:Reference
+    100332: CHunitychan:ringBase_L
+    100334: CHunitychan:ringBase_R
+    100336: CHunitychan:ringMiddle_L
+    100338: CHunitychan:ringMiddle_R
+    100340: CHunitychan:ringRoot_L
+    100342: CHunitychan:ringRoot_R
+    100344: CHunitychan:ringTop_L
+    100346: CHunitychan:ringTop_R
+    100348: CHunitychan:scarf
+    100350: CHunitychan:shirt
+    100352: CHunitychan:shoes
+    100354: CHunitychan:shoesExtend
+    100356: CHunitychan:sideLip_L
+    100358: CHunitychan:sideLip_R
+    100360: CHunitychan:skin
+    100362: CHunitychan:spineA_C
+    100364: CHunitychan:spineB_C
+    100366: CHunitychan:spineC_C
+    100368: CHunitychan:sword
+    100370: CHunitychan:swordA
+    100372: CHunitychan:swordB
+    100374: CHunitychan:swordC
+    100376: CHunitychan:swordD
+    100378: CHunitychan:swordE
+    100380: CHunitychan:swordF
+    100382: CHunitychan:swordG
+    100384: CHunitychan:swordH
+    100386: CHunitychan:swordI
+    100388: CHunitychan:thigh_L
+    100390: CHunitychan:thigh_R
+    100392: CHunitychan:thighTU_L
+    100394: CHunitychan:thighTU_R
+    100396: CHunitychan:thighTwista_L
+    100398: CHunitychan:thighTwista_R
+    100400: CHunitychan:thighTwistb_L
+    100402: CHunitychan:thighTwistb_R
+    100404: CHunitychan:thighTwistc_L
+    100406: CHunitychan:thighTwistc_R
+    100408: CHunitychan:thighVolB_L
+    100410: CHunitychan:thighVolB_R
+    100412: CHunitychan:thumbBase_L
+    100414: CHunitychan:thumbBase_R
+    100416: CHunitychan:thumbMiddle_L
+    100418: CHunitychan:thumbMiddle_R
+    100420: CHunitychan:thumbTop_L
+    100422: CHunitychan:thumbTop_R
+    100424: CHunitychan:toe_L
+    100426: CHunitychan:toe_R
+    100428: CHunitychan:tongue
+    100430: CHunitychan:tongueA_C
+    100432: CHunitychan:tongueB_C
+    100434: CHunitychan:tongueC_C
+    100436: CHunitychan:tooth
+    100438: CHunitychan:topEyelineA_L
+    100440: CHunitychan:topEyelineA_R
+    100442: CHunitychan:topEyelineB_L
+    100444: CHunitychan:topEyelineB_R
+    100446: CHunitychan:topEyelineC_L
+    100448: CHunitychan:topEyelineC_R
+    100450: CHunitychan:topEyelineD_L
+    100452: CHunitychan:topEyelineD_R
+    100454: CHunitychan:topLip_C
+    100456: CHunitychan:topLipA_L
+    100458: CHunitychan:topLipA_R
+    100460: CHunitychan:topLipB_L
+    100462: CHunitychan:topLipB_R
+    100464: CHunitychan:topLipC_L
+    100466: CHunitychan:topLipC_R
+    100468: CHunitychan:uparm_L
+    100470: CHunitychan:uparm_R
+    100472: CHunitychan:uparmTU_L
+    100474: CHunitychan:uparmTU_R
+    100476: CHunitychan:uparmTwista_L
+    100478: CHunitychan:uparmTwista_R
+    100480: CHunitychan:uparmTwistb_L
+    100482: CHunitychan:uparmTwistb_R
+    100484: CHunitychan:uparmTwistc_L
+    100486: CHunitychan:uparmTwistc_R
+    100488: CHunitychan:upTooth_C
+    100490: CHunitychan:upTooth_L
+    100492: CHunitychan:upTooth_R
+    100494: CHunitychan:wristband
+    100496: CHunitychan:wristInTU_L
+    100498: CHunitychan:wristInTU_R
+    100500: CHunitychan:wristOutTU_L
+    100502: CHunitychan:wristOutTU_R
+    400000: //RootNode
+    400002: CHunitychan:armcover
+    400004: CHunitychan:backKnee_L
+    400006: CHunitychan:backKnee_R
+    400008: CHunitychan:belt
+    400010: CHunitychan:body
+    400012: CHunitychan:browA_L
+    400014: CHunitychan:browA_R
+    400016: CHunitychan:browB_L
+    400018: CHunitychan:browB_R
+    400020: CHunitychan:browC_L
+    400022: CHunitychan:browC_R
+    400024: CHunitychan:browD_L
+    400026: CHunitychan:browD_R
+    400028: CHunitychan:browE_L
+    400030: CHunitychan:browE_R
+    400032: CHunitychan:btmCornerEyeline_L
+    400034: CHunitychan:btmCornerEyeline_R
+    400036: CHunitychan:btmEyelineA_L
+    400038: CHunitychan:btmEyelineA_R
+    400040: CHunitychan:btmEyelineB_L
+    400042: CHunitychan:btmEyelineB_R
+    400044: CHunitychan:btmEyelineC_L
+    400046: CHunitychan:btmEyelineC_R
+    400048: CHunitychan:btmLip_C
+    400050: CHunitychan:btmLipA_L
+    400052: CHunitychan:btmLipA_R
+    400054: CHunitychan:btmLipB_L
+    400056: CHunitychan:btmLipB_R
+    400058: CHunitychan:btmLipC_L
+    400060: CHunitychan:btmLipC_R
+    400062: CHunitychan:btmTooth_C
+    400064: CHunitychan:btmTooth_L
+    400066: CHunitychan:btmTooth_R
+    400068: CHunitychan:calfVolA_L
+    400070: CHunitychan:calfVolA_R
+    400072: CHunitychan:clavicle_L
+    400074: CHunitychan:clavicle_R
+    400076: CHunitychan:collar
+    400078: CHunitychan:cornerEyeline_L
+    400080: CHunitychan:cornerEyeline_R
+    400082: CHunitychan:cuffs
+    400084: CHunitychan:ear_L
+    400086: CHunitychan:ear_R
+    400088: CHunitychan:elbow_L
+    400090: CHunitychan:elbow_R
+    400092: CHunitychan:eye_L
+    400094: CHunitychan:eye_R
+    400096: CHunitychan:eyeBall
+    400098: CHunitychan:eyeHighLight
+    400100: CHunitychan:eyeHighlightA_L
+    400102: CHunitychan:eyeHighlightA_R
+    400104: CHunitychan:eyeHighlightB_L
+    400106: CHunitychan:eyeHighlightB_R
+    400108: CHunitychan:eyeHighlightC_L
+    400110: CHunitychan:eyeHighlightC_R
+    400112: CHunitychan:eyelidlineA_L
+    400114: CHunitychan:eyelidlineA_R
+    400116: CHunitychan:eyelidlineB_L
+    400118: CHunitychan:eyelidlineB_R
+    400120: CHunitychan:eyelidlineC_L
+    400122: CHunitychan:eyelidlineC_R
+    400124: CHunitychan:eyeline
+    400126: CHunitychan:foot_L
+    400128: CHunitychan:foot_R
+    400130: CHunitychan:frill
+    400132: CHunitychan:hairBack
+    400134: CHunitychan:hairFront
+    400136: CHunitychan:hairSide
+    400138: CHunitychan:hairUnder
+    400140: CHunitychan:hand_L
+    400142: CHunitychan:hand_R
+    400144: CHunitychan:handHR_L
+    400146: CHunitychan:handHR_R
+    400148: CHunitychan:head
+    400150: CHunitychan:head_C
+    400152: CHunitychan:headNose
+    400154: CHunitychan:hip_C
+    400156: CHunitychan:horn
+    400158: CHunitychan:hornA_L
+    400160: CHunitychan:hornA_R
+    400162: CHunitychan:hornB_L
+    400164: CHunitychan:hornB_R
+    400166: CHunitychan:hornC_L
+    400168: CHunitychan:hornC_R
+    400170: CHunitychan:hornD_L
+    400172: CHunitychan:hornD_R
+    400174: CHunitychan:indexBase_L
+    400176: CHunitychan:indexBase_R
+    400178: CHunitychan:indexMiddle_L
+    400180: CHunitychan:indexMiddle_R
+    400182: CHunitychan:indexRoot_L
+    400184: CHunitychan:indexRoot_R
+    400186: CHunitychan:indexTop_L
+    400188: CHunitychan:indexTop_R
+    400190: CHunitychan:innerEyeline_L
+    400192: CHunitychan:innerEyeline_R
+    400194: CHunitychan:jaw
+    400196: CHunitychan:jawAll
+    400198: CHunitychan:jawAllSub
+    400200: CHunitychan:jawLine_C
+    400202: CHunitychan:jawLineA_L
+    400204: CHunitychan:jawLineA_R
+    400206: CHunitychan:jawLineB_L
+    400208: CHunitychan:jawLineB_R
+    400210: CHunitychan:jawLineC_L
+    400212: CHunitychan:jawLineC_R
+    400214: CHunitychan:jawLineD_L
+    400216: CHunitychan:jawLineD_R
+    400218: CHunitychan:kneeFrontTU_L
+    400220: CHunitychan:kneeFrontTU_R
+    400222: CHunitychan:kwep_exebreaker
+    400224: CHunitychan:legs
+    400226: CHunitychan:lowarm_L
+    400228: CHunitychan:lowarm_R
+    400230: CHunitychan:lowarmHR_L
+    400232: CHunitychan:lowarmHR_R
+    400234: CHunitychan:lowarmTU_L
+    400236: CHunitychan:lowarmTU_R
+    400238: CHunitychan:lowarmTwista_L
+    400240: CHunitychan:lowarmTwista_R
+    400242: CHunitychan:lowarmTwistb_L
+    400244: CHunitychan:lowarmTwistb_R
+    400246: CHunitychan:lowarmTwistc_L
+    400248: CHunitychan:lowarmTwistc_R
+    400250: CHunitychan:lowleg_L
+    400252: CHunitychan:lowleg_R
+    400254: CHunitychan:lowlegHR_L
+    400256: CHunitychan:lowlegHR_R
+    400258: CHunitychan:lowlegTU_L
+    400260: CHunitychan:lowlegTU_R
+    400262: CHunitychan:lowlegTwista_L
+    400264: CHunitychan:lowlegTwista_R
+    400266: CHunitychan:lowlegTwistb_L
+    400268: CHunitychan:lowlegTwistb_R
+    400270: CHunitychan:lowlegTwistc_L
+    400272: CHunitychan:lowlegTwistc_R
+    400274: CHunitychan:mantle
+    400276: CHunitychan:mayu
+    400278: CHunitychan:middleBase_L
+    400280: CHunitychan:middleBase_R
+    400282: CHunitychan:middleMiddle_L
+    400284: CHunitychan:middleMiddle_R
+    400286: CHunitychan:middleRoot_L
+    400288: CHunitychan:middleRoot_R
+    400290: CHunitychan:middleTop_L
+    400292: CHunitychan:middleTop_R
+    400294: CHunitychan:model_grp
+    400296: CHunitychan:mouthBtmCtrl
+    400298: CHunitychan:neck_C
+    400300: CHunitychan:neckTwsta_C
+    400302: CHunitychan:neckTwstb_C
+    400304: CHunitychan:neckTwstc_C
+    400306: CHunitychan:noseBtm_C
+    400308: CHunitychan:noseRoot_C
+    400310: CHunitychan:noseTop_C
+    400312: CHunitychan:pants
+    400314: CHunitychan:pinkyBase_L
+    400316: CHunitychan:pinkyBase_R
+    400318: CHunitychan:pinkyMiddle_L
+    400320: CHunitychan:pinkyMiddle_R
+    400322: CHunitychan:pinkyRoot_L
+    400324: CHunitychan:pinkyRoot_R
+    400326: CHunitychan:pinkyTop_L
+    400328: CHunitychan:pinkyTop_R
+    400330: CHunitychan:Reference
+    400332: CHunitychan:ringBase_L
+    400334: CHunitychan:ringBase_R
+    400336: CHunitychan:ringMiddle_L
+    400338: CHunitychan:ringMiddle_R
+    400340: CHunitychan:ringRoot_L
+    400342: CHunitychan:ringRoot_R
+    400344: CHunitychan:ringTop_L
+    400346: CHunitychan:ringTop_R
+    400348: CHunitychan:scarf
+    400350: CHunitychan:shirt
+    400352: CHunitychan:shoes
+    400354: CHunitychan:shoesExtend
+    400356: CHunitychan:sideLip_L
+    400358: CHunitychan:sideLip_R
+    400360: CHunitychan:skin
+    400362: CHunitychan:spineA_C
+    400364: CHunitychan:spineB_C
+    400366: CHunitychan:spineC_C
+    400368: CHunitychan:sword
+    400370: CHunitychan:swordA
+    400372: CHunitychan:swordB
+    400374: CHunitychan:swordC
+    400376: CHunitychan:swordD
+    400378: CHunitychan:swordE
+    400380: CHunitychan:swordF
+    400382: CHunitychan:swordG
+    400384: CHunitychan:swordH
+    400386: CHunitychan:swordI
+    400388: CHunitychan:thigh_L
+    400390: CHunitychan:thigh_R
+    400392: CHunitychan:thighTU_L
+    400394: CHunitychan:thighTU_R
+    400396: CHunitychan:thighTwista_L
+    400398: CHunitychan:thighTwista_R
+    400400: CHunitychan:thighTwistb_L
+    400402: CHunitychan:thighTwistb_R
+    400404: CHunitychan:thighTwistc_L
+    400406: CHunitychan:thighTwistc_R
+    400408: CHunitychan:thighVolB_L
+    400410: CHunitychan:thighVolB_R
+    400412: CHunitychan:thumbBase_L
+    400414: CHunitychan:thumbBase_R
+    400416: CHunitychan:thumbMiddle_L
+    400418: CHunitychan:thumbMiddle_R
+    400420: CHunitychan:thumbTop_L
+    400422: CHunitychan:thumbTop_R
+    400424: CHunitychan:toe_L
+    400426: CHunitychan:toe_R
+    400428: CHunitychan:tongue
+    400430: CHunitychan:tongueA_C
+    400432: CHunitychan:tongueB_C
+    400434: CHunitychan:tongueC_C
+    400436: CHunitychan:tooth
+    400438: CHunitychan:topEyelineA_L
+    400440: CHunitychan:topEyelineA_R
+    400442: CHunitychan:topEyelineB_L
+    400444: CHunitychan:topEyelineB_R
+    400446: CHunitychan:topEyelineC_L
+    400448: CHunitychan:topEyelineC_R
+    400450: CHunitychan:topEyelineD_L
+    400452: CHunitychan:topEyelineD_R
+    400454: CHunitychan:topLip_C
+    400456: CHunitychan:topLipA_L
+    400458: CHunitychan:topLipA_R
+    400460: CHunitychan:topLipB_L
+    400462: CHunitychan:topLipB_R
+    400464: CHunitychan:topLipC_L
+    400466: CHunitychan:topLipC_R
+    400468: CHunitychan:uparm_L
+    400470: CHunitychan:uparm_R
+    400472: CHunitychan:uparmTU_L
+    400474: CHunitychan:uparmTU_R
+    400476: CHunitychan:uparmTwista_L
+    400478: CHunitychan:uparmTwista_R
+    400480: CHunitychan:uparmTwistb_L
+    400482: CHunitychan:uparmTwistb_R
+    400484: CHunitychan:uparmTwistc_L
+    400486: CHunitychan:uparmTwistc_R
+    400488: CHunitychan:upTooth_C
+    400490: CHunitychan:upTooth_L
+    400492: CHunitychan:upTooth_R
+    400494: CHunitychan:wristband
+    400496: CHunitychan:wristInTU_L
+    400498: CHunitychan:wristInTU_R
+    400500: CHunitychan:wristOutTU_L
+    400502: CHunitychan:wristOutTU_R
+    4300000: CHunitychan:horn
+    4300002: CHunitychan:eyeBall
+    4300004: CHunitychan:eyeHighLight
+    4300006: CHunitychan:headNose
+    4300008: CHunitychan:tongue
+    4300010: CHunitychan:tooth
+    4300012: CHunitychan:eyeline
+    4300014: CHunitychan:skin
+    4300016: CHunitychan:pants
+    4300018: CHunitychan:legs
+    4300020: CHunitychan:shoes
+    4300022: CHunitychan:shoesExtend
+    4300024: CHunitychan:shirt
+    4300026: CHunitychan:body
+    4300028: CHunitychan:cuffs
+    4300030: CHunitychan:scarf
+    4300032: CHunitychan:collar
+    4300034: CHunitychan:armcover
+    4300036: CHunitychan:wristband
+    4300038: CHunitychan:belt
+    4300040: CHunitychan:frill
+    4300042: CHunitychan:mantle
+    4300044: CHunitychan:kwep_exebreaker
+    4300046: CHunitychan:hairBack
+    4300048: CHunitychan:hairFront
+    4300050: CHunitychan:hairSide
+    4300052: CHunitychan:hairUnder
+    4300054: CHunitychan:mayu
+    4300056: CHunitychan:head
+    7400000: C5C6kohaku_anim
+    9500000: //RootNode
+    13700000: CHunitychan:armcover
+    13700002: CHunitychan:belt
+    13700004: CHunitychan:body
+    13700006: CHunitychan:collar
+    13700008: CHunitychan:cuffs
+    13700010: CHunitychan:eyeBall
+    13700012: CHunitychan:eyeHighLight
+    13700014: CHunitychan:eyeline
+    13700016: CHunitychan:frill
+    13700018: CHunitychan:hairBack
+    13700020: CHunitychan:hairFront
+    13700022: CHunitychan:hairSide
+    13700024: CHunitychan:hairUnder
+    13700026: CHunitychan:head
+    13700028: CHunitychan:headNose
+    13700030: CHunitychan:horn
+    13700032: CHunitychan:kwep_exebreaker
+    13700034: CHunitychan:legs
+    13700036: CHunitychan:mantle
+    13700038: CHunitychan:mayu
+    13700040: CHunitychan:pants
+    13700042: CHunitychan:scarf
+    13700044: CHunitychan:shirt
+    13700046: CHunitychan:shoes
+    13700048: CHunitychan:shoesExtend
+    13700050: CHunitychan:skin
+    13700052: CHunitychan:tongue
+    13700054: CHunitychan:tooth
+    13700056: CHunitychan:wristband
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C5C6kohaku_anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 189
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CHunitychan:model_grp
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:armcover
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:belt
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:body
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:collar
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:cuffs
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:eyeBall
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:eyeHighLight
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:eyeline
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:frill
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:hairBack
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:hairFront
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:hairSide
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:hairUnder
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:head
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:headNose
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:horn
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:kwep_exebreaker
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:legs
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:mantle
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:mayu
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:pants
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:scarf
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:shirt
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:shoes
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:shoesExtend
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:skin
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:tongue
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:tooth
+        weight: 1
+      - path: CHunitychan:model_grp/CHunitychan:wristband
+        weight: 1
+      - path: CHunitychan:Reference
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTU_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:indexRoot_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:indexRoot_L/CHunitychan:indexBase_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:indexRoot_L/CHunitychan:indexBase_L/CHunitychan:indexMiddle_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:indexRoot_L/CHunitychan:indexBase_L/CHunitychan:indexMiddle_L/CHunitychan:indexTop_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:middleRoot_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:middleRoot_L/CHunitychan:middleBase_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:middleRoot_L/CHunitychan:middleBase_L/CHunitychan:middleMiddle_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:middleRoot_L/CHunitychan:middleBase_L/CHunitychan:middleMiddle_L/CHunitychan:middleTop_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:pinkyRoot_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:pinkyRoot_L/CHunitychan:pinkyBase_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:pinkyRoot_L/CHunitychan:pinkyBase_L/CHunitychan:pinkyMiddle_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:pinkyRoot_L/CHunitychan:pinkyBase_L/CHunitychan:pinkyMiddle_L/CHunitychan:pinkyTop_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:ringRoot_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:ringRoot_L/CHunitychan:ringBase_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:ringRoot_L/CHunitychan:ringBase_L/CHunitychan:ringMiddle_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:ringRoot_L/CHunitychan:ringBase_L/CHunitychan:ringMiddle_L/CHunitychan:ringTop_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:thumbBase_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:thumbBase_L/CHunitychan:thumbMiddle_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:hand_L/CHunitychan:thumbBase_L/CHunitychan:thumbMiddle_L/CHunitychan:thumbTop_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:handHR_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:handHR_L/CHunitychan:wristInTU_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarm_L/CHunitychan:lowarmTwista_L/CHunitychan:lowarmTwistb_L/CHunitychan:lowarmTwistc_L/CHunitychan:handHR_L/CHunitychan:wristOutTU_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarmHR_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:lowarmHR_L/CHunitychan:elbow_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_L/CHunitychan:uparm_L/CHunitychan:uparmTwista_L/CHunitychan:uparmTwistb_L/CHunitychan:uparmTwistc_L/CHunitychan:uparmTU_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTU_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:indexRoot_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:indexRoot_R/CHunitychan:indexBase_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:indexRoot_R/CHunitychan:indexBase_R/CHunitychan:indexMiddle_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:indexRoot_R/CHunitychan:indexBase_R/CHunitychan:indexMiddle_R/CHunitychan:indexTop_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:middleRoot_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:middleRoot_R/CHunitychan:middleBase_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:middleRoot_R/CHunitychan:middleBase_R/CHunitychan:middleMiddle_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:middleRoot_R/CHunitychan:middleBase_R/CHunitychan:middleMiddle_R/CHunitychan:middleTop_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:pinkyRoot_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:pinkyRoot_R/CHunitychan:pinkyBase_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:pinkyRoot_R/CHunitychan:pinkyBase_R/CHunitychan:pinkyMiddle_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:pinkyRoot_R/CHunitychan:pinkyBase_R/CHunitychan:pinkyMiddle_R/CHunitychan:pinkyTop_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:ringRoot_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:ringRoot_R/CHunitychan:ringBase_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:ringRoot_R/CHunitychan:ringBase_R/CHunitychan:ringMiddle_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:ringRoot_R/CHunitychan:ringBase_R/CHunitychan:ringMiddle_R/CHunitychan:ringTop_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:thumbBase_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:thumbBase_R/CHunitychan:thumbMiddle_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:hand_R/CHunitychan:thumbBase_R/CHunitychan:thumbMiddle_R/CHunitychan:thumbTop_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:handHR_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:handHR_R/CHunitychan:wristInTU_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarm_R/CHunitychan:lowarmTwista_R/CHunitychan:lowarmTwistb_R/CHunitychan:lowarmTwistc_R/CHunitychan:handHR_R/CHunitychan:wristOutTU_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarmHR_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:lowarmHR_R/CHunitychan:elbow_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:clavicle_R/CHunitychan:uparm_R/CHunitychan:uparmTwista_R/CHunitychan:uparmTwistb_R/CHunitychan:uparmTwistc_R/CHunitychan:uparmTU_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browD_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browD_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browE_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:browE_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmCornerEyeline_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmCornerEyeline_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmEyelineA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmEyelineA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmEyelineB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmEyelineB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmEyelineC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmEyelineC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmLip_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmLipA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmLipA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmLipB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmLipB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmLipC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmLipC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmTooth_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmTooth_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:btmTooth_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:cornerEyeline_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:cornerEyeline_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:ear_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:ear_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eye_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eye_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyeHighlightA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyeHighlightA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyeHighlightB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyeHighlightB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyeHighlightC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyeHighlightC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyelidlineA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyelidlineA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyelidlineB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyelidlineB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyelidlineC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:eyelidlineC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_L/CHunitychan:hornB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_L/CHunitychan:hornB_L/CHunitychan:hornC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_L/CHunitychan:hornB_L/CHunitychan:hornC_L/CHunitychan:hornD_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_R/CHunitychan:hornB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_R/CHunitychan:hornB_R/CHunitychan:hornC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:hornA_R/CHunitychan:hornB_R/CHunitychan:hornC_R/CHunitychan:hornD_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:innerEyeline_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:innerEyeline_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jaw
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jaw/CHunitychan:jawAll
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jaw/CHunitychan:jawAll/CHunitychan:jawAllSub
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jaw/CHunitychan:jawAll/CHunitychan:mouthBtmCtrl
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jaw/CHunitychan:jawAll/CHunitychan:tongueA_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jaw/CHunitychan:jawAll/CHunitychan:tongueA_C/CHunitychan:tongueB_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jaw/CHunitychan:jawAll/CHunitychan:tongueA_C/CHunitychan:tongueB_C/CHunitychan:tongueC_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLine_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineD_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:jawLineD_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:noseRoot_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:noseRoot_C/CHunitychan:noseBtm_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:noseRoot_C/CHunitychan:noseTop_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:sideLip_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:sideLip_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineD_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topEyelineD_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topLip_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topLipA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topLipA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topLipB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topLipB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topLipC_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:topLipC_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:upTooth_C
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:upTooth_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:spineA_C/CHunitychan:spineB_C/CHunitychan:spineC_C/CHunitychan:neck_C/CHunitychan:neckTwsta_C/CHunitychan:neckTwstb_C/CHunitychan:neckTwstc_C/CHunitychan:head_C/CHunitychan:upTooth_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L/CHunitychan:lowlegTU_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L/CHunitychan:lowlegTwista_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L/CHunitychan:lowlegTwista_L/CHunitychan:calfVolA_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L/CHunitychan:lowlegTwista_L/CHunitychan:lowlegTwistb_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L/CHunitychan:lowlegTwista_L/CHunitychan:lowlegTwistb_L/CHunitychan:lowlegTwistc_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L/CHunitychan:lowlegTwista_L/CHunitychan:lowlegTwistb_L/CHunitychan:lowlegTwistc_L/CHunitychan:foot_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowleg_L/CHunitychan:lowlegTwista_L/CHunitychan:lowlegTwistb_L/CHunitychan:lowlegTwistc_L/CHunitychan:foot_L/CHunitychan:toe_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowlegHR_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowlegHR_L/CHunitychan:backKnee_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:lowlegHR_L/CHunitychan:kneeFrontTU_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighTwistc_L/CHunitychan:thighTU_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_L/CHunitychan:thighTwista_L/CHunitychan:thighTwistb_L/CHunitychan:thighVolB_L
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R/CHunitychan:lowlegTU_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R/CHunitychan:lowlegTwista_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R/CHunitychan:lowlegTwista_R/CHunitychan:calfVolA_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R/CHunitychan:lowlegTwista_R/CHunitychan:lowlegTwistb_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R/CHunitychan:lowlegTwista_R/CHunitychan:lowlegTwistb_R/CHunitychan:lowlegTwistc_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R/CHunitychan:lowlegTwista_R/CHunitychan:lowlegTwistb_R/CHunitychan:lowlegTwistc_R/CHunitychan:foot_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowleg_R/CHunitychan:lowlegTwista_R/CHunitychan:lowlegTwistb_R/CHunitychan:lowlegTwistc_R/CHunitychan:foot_R/CHunitychan:toe_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowlegHR_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowlegHR_R/CHunitychan:backKnee_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:lowlegHR_R/CHunitychan:kneeFrontTU_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighTwistc_R/CHunitychan:thighTU_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:hip_C/CHunitychan:thigh_R/CHunitychan:thighTwista_R/CHunitychan:thighTwistb_R/CHunitychan:thighVolB_R
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:sword
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordA
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordB
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordC
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordD
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordE
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordF
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordG
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordH
+        weight: 1
+      - path: CHunitychan:Reference/CHunitychan:swordI
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

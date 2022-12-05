@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: b4d36e273b1e91c45a5ed3d23fdbbf70
+timeCreated: 1490773304
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CHmisakiA:backKnee_L
+    100004: CHmisakiA:backKnee_R
+    100006: CHmisakiA:body
+    100008: CHmisakiA:calfVolA_L
+    100010: CHmisakiA:calfVolA_R
+    100012: CHmisakiA:clavicle_L
+    100014: CHmisakiA:clavicle_R
+    100016: CHmisakiA:collar
+    100018: CHmisakiA:cuffs
+    100020: CHmisakiA:elbow_L
+    100022: CHmisakiA:elbow_R
+    100024: CHmisakiA:eyeBall
+    100026: CHmisakiA:eyeHighLight
+    100028: CHmisakiA:eyeline
+    100030: CHmisakiA:foot_L
+    100032: CHmisakiA:foot_R
+    100034: CHmisakiA:hair
+    100036: CHmisakiA:hairFront
+    100038: CHmisakiA:hairTail
+    100040: CHmisakiA:hand_L
+    100042: CHmisakiA:hand_R
+    100044: CHmisakiA:handHR_L
+    100046: CHmisakiA:handHR_R
+    100048: CHmisakiA:head
+    100050: CHmisakiA:head_C
+    100052: CHmisakiA:headNose
+    100054: CHmisakiA:hip_C
+    100056: CHmisakiA:indexBase_L
+    100058: CHmisakiA:indexBase_R
+    100060: CHmisakiA:indexMiddle_L
+    100062: CHmisakiA:indexMiddle_R
+    100064: CHmisakiA:indexRoot_L
+    100066: CHmisakiA:indexRoot_R
+    100068: CHmisakiA:indexTop_L
+    100070: CHmisakiA:indexTop_R
+    100072: CHmisakiA:kneeFrontTU_L
+    100074: CHmisakiA:kneeFrontTU_R
+    100076: CHmisakiA:legs
+    100078: CHmisakiA:lowarm_L
+    100080: CHmisakiA:lowarm_R
+    100082: CHmisakiA:lowarmHR_L
+    100084: CHmisakiA:lowarmHR_R
+    100086: CHmisakiA:lowarmTU_L
+    100088: CHmisakiA:lowarmTU_R
+    100090: CHmisakiA:lowarmTwista_L
+    100092: CHmisakiA:lowarmTwista_R
+    100094: CHmisakiA:lowarmTwistb_L
+    100096: CHmisakiA:lowarmTwistb_R
+    100098: CHmisakiA:lowarmTwistc_L
+    100100: CHmisakiA:lowarmTwistc_R
+    100102: CHmisakiA:lowleg_L
+    100104: CHmisakiA:lowleg_R
+    100106: CHmisakiA:lowlegHR_L
+    100108: CHmisakiA:lowlegHR_R
+    100110: CHmisakiA:lowlegTU_L
+    100112: CHmisakiA:lowlegTU_R
+    100114: CHmisakiA:lowlegTwista_L
+    100116: CHmisakiA:lowlegTwista_R
+    100118: CHmisakiA:lowlegTwistb_L
+    100120: CHmisakiA:lowlegTwistb_R
+    100122: CHmisakiA:lowlegTwistc_L
+    100124: CHmisakiA:lowlegTwistc_R
+    100126: CHmisakiA:mayu
+    100128: CHmisakiA:middleBase_L
+    100130: CHmisakiA:middleBase_R
+    100132: CHmisakiA:middleMiddle_L
+    100134: CHmisakiA:middleMiddle_R
+    100136: CHmisakiA:middleRoot_L
+    100138: CHmisakiA:middleRoot_R
+    100140: CHmisakiA:middleTop_L
+    100142: CHmisakiA:middleTop_R
+    100144: CHmisakiA:model_grp
+    100146: CHmisakiA:neck_C
+    100148: CHmisakiA:neckTwsta_C
+    100150: CHmisakiA:neckTwstb_C
+    100152: CHmisakiA:neckTwstc_C
+    100154: CHmisakiA:pants
+    100156: CHmisakiA:pinkyBase_L
+    100158: CHmisakiA:pinkyBase_R
+    100160: CHmisakiA:pinkyMiddle_L
+    100162: CHmisakiA:pinkyMiddle_R
+    100164: CHmisakiA:pinkyRoot_L
+    100166: CHmisakiA:pinkyRoot_R
+    100168: CHmisakiA:pinkyTop_L
+    100170: CHmisakiA:pinkyTop_R
+    100172: CHmisakiA:Reference
+    100174: CHmisakiA:ribbon
+    100176: CHmisakiA:ringBase_L
+    100178: CHmisakiA:ringBase_R
+    100180: CHmisakiA:ringMiddle_L
+    100182: CHmisakiA:ringMiddle_R
+    100184: CHmisakiA:ringRoot_L
+    100186: CHmisakiA:ringRoot_R
+    100188: CHmisakiA:ringTop_L
+    100190: CHmisakiA:ringTop_R
+    100192: CHmisakiA:scarf
+    100194: CHmisakiA:shirt
+    100196: CHmisakiA:shoes
+    100198: CHmisakiA:skin
+    100200: CHmisakiA:spineA_C
+    100202: CHmisakiA:spineB_C
+    100204: CHmisakiA:spineC_C
+    100206: CHmisakiA:thigh_L
+    100208: CHmisakiA:thigh_R
+    100210: CHmisakiA:thighTU_L
+    100212: CHmisakiA:thighTU_R
+    100214: CHmisakiA:thighTwista_L
+    100216: CHmisakiA:thighTwista_R
+    100218: CHmisakiA:thighTwistb_L
+    100220: CHmisakiA:thighTwistb_R
+    100222: CHmisakiA:thighTwistc_L
+    100224: CHmisakiA:thighTwistc_R
+    100226: CHmisakiA:thighVolB_L
+    100228: CHmisakiA:thighVolB_R
+    100230: CHmisakiA:thumbBase_L
+    100232: CHmisakiA:thumbBase_R
+    100234: CHmisakiA:thumbMiddle_L
+    100236: CHmisakiA:thumbMiddle_R
+    100238: CHmisakiA:thumbTop_L
+    100240: CHmisakiA:thumbTop_R
+    100242: CHmisakiA:toe_L
+    100244: CHmisakiA:toe_R
+    100246: CHmisakiA:tongue
+    100248: CHmisakiA:tooth
+    100250: CHmisakiA:uparm_L
+    100252: CHmisakiA:uparm_R
+    100254: CHmisakiA:uparmTU_L
+    100256: CHmisakiA:uparmTU_R
+    100258: CHmisakiA:uparmTwista_L
+    100260: CHmisakiA:uparmTwista_R
+    100262: CHmisakiA:uparmTwistb_L
+    100264: CHmisakiA:uparmTwistb_R
+    100266: CHmisakiA:uparmTwistc_L
+    100268: CHmisakiA:uparmTwistc_R
+    100270: CHmisakiA:wristInTU_L
+    100272: CHmisakiA:wristInTU_R
+    100274: CHmisakiA:wristOutTU_L
+    100276: CHmisakiA:wristOutTU_R
+    400000: //RootNode
+    400002: CHmisakiA:backKnee_L
+    400004: CHmisakiA:backKnee_R
+    400006: CHmisakiA:body
+    400008: CHmisakiA:calfVolA_L
+    400010: CHmisakiA:calfVolA_R
+    400012: CHmisakiA:clavicle_L
+    400014: CHmisakiA:clavicle_R
+    400016: CHmisakiA:collar
+    400018: CHmisakiA:cuffs
+    400020: CHmisakiA:elbow_L
+    400022: CHmisakiA:elbow_R
+    400024: CHmisakiA:eyeBall
+    400026: CHmisakiA:eyeHighLight
+    400028: CHmisakiA:eyeline
+    400030: CHmisakiA:foot_L
+    400032: CHmisakiA:foot_R
+    400034: CHmisakiA:hair
+    400036: CHmisakiA:hairFront
+    400038: CHmisakiA:hairTail
+    400040: CHmisakiA:hand_L
+    400042: CHmisakiA:hand_R
+    400044: CHmisakiA:handHR_L
+    400046: CHmisakiA:handHR_R
+    400048: CHmisakiA:head
+    400050: CHmisakiA:head_C
+    400052: CHmisakiA:headNose
+    400054: CHmisakiA:hip_C
+    400056: CHmisakiA:indexBase_L
+    400058: CHmisakiA:indexBase_R
+    400060: CHmisakiA:indexMiddle_L
+    400062: CHmisakiA:indexMiddle_R
+    400064: CHmisakiA:indexRoot_L
+    400066: CHmisakiA:indexRoot_R
+    400068: CHmisakiA:indexTop_L
+    400070: CHmisakiA:indexTop_R
+    400072: CHmisakiA:kneeFrontTU_L
+    400074: CHmisakiA:kneeFrontTU_R
+    400076: CHmisakiA:legs
+    400078: CHmisakiA:lowarm_L
+    400080: CHmisakiA:lowarm_R
+    400082: CHmisakiA:lowarmHR_L
+    400084: CHmisakiA:lowarmHR_R
+    400086: CHmisakiA:lowarmTU_L
+    400088: CHmisakiA:lowarmTU_R
+    400090: CHmisakiA:lowarmTwista_L
+    400092: CHmisakiA:lowarmTwista_R
+    400094: CHmisakiA:lowarmTwistb_L
+    400096: CHmisakiA:lowarmTwistb_R
+    400098: CHmisakiA:lowarmTwistc_L
+    400100: CHmisakiA:lowarmTwistc_R
+    400102: CHmisakiA:lowleg_L
+    400104: CHmisakiA:lowleg_R
+    400106: CHmisakiA:lowlegHR_L
+    400108: CHmisakiA:lowlegHR_R
+    400110: CHmisakiA:lowlegTU_L
+    400112: CHmisakiA:lowlegTU_R
+    400114: CHmisakiA:lowlegTwista_L
+    400116: CHmisakiA:lowlegTwista_R
+    400118: CHmisakiA:lowlegTwistb_L
+    400120: CHmisakiA:lowlegTwistb_R
+    400122: CHmisakiA:lowlegTwistc_L
+    400124: CHmisakiA:lowlegTwistc_R
+    400126: CHmisakiA:mayu
+    400128: CHmisakiA:middleBase_L
+    400130: CHmisakiA:middleBase_R
+    400132: CHmisakiA:middleMiddle_L
+    400134: CHmisakiA:middleMiddle_R
+    400136: CHmisakiA:middleRoot_L
+    400138: CHmisakiA:middleRoot_R
+    400140: CHmisakiA:middleTop_L
+    400142: CHmisakiA:middleTop_R
+    400144: CHmisakiA:model_grp
+    400146: CHmisakiA:neck_C
+    400148: CHmisakiA:neckTwsta_C
+    400150: CHmisakiA:neckTwstb_C
+    400152: CHmisakiA:neckTwstc_C
+    400154: CHmisakiA:pants
+    400156: CHmisakiA:pinkyBase_L
+    400158: CHmisakiA:pinkyBase_R
+    400160: CHmisakiA:pinkyMiddle_L
+    400162: CHmisakiA:pinkyMiddle_R
+    400164: CHmisakiA:pinkyRoot_L
+    400166: CHmisakiA:pinkyRoot_R
+    400168: CHmisakiA:pinkyTop_L
+    400170: CHmisakiA:pinkyTop_R
+    400172: CHmisakiA:Reference
+    400174: CHmisakiA:ribbon
+    400176: CHmisakiA:ringBase_L
+    400178: CHmisakiA:ringBase_R
+    400180: CHmisakiA:ringMiddle_L
+    400182: CHmisakiA:ringMiddle_R
+    400184: CHmisakiA:ringRoot_L
+    400186: CHmisakiA:ringRoot_R
+    400188: CHmisakiA:ringTop_L
+    400190: CHmisakiA:ringTop_R
+    400192: CHmisakiA:scarf
+    400194: CHmisakiA:shirt
+    400196: CHmisakiA:shoes
+    400198: CHmisakiA:skin
+    400200: CHmisakiA:spineA_C
+    400202: CHmisakiA:spineB_C
+    400204: CHmisakiA:spineC_C
+    400206: CHmisakiA:thigh_L
+    400208: CHmisakiA:thigh_R
+    400210: CHmisakiA:thighTU_L
+    400212: CHmisakiA:thighTU_R
+    400214: CHmisakiA:thighTwista_L
+    400216: CHmisakiA:thighTwista_R
+    400218: CHmisakiA:thighTwistb_L
+    400220: CHmisakiA:thighTwistb_R
+    400222: CHmisakiA:thighTwistc_L
+    400224: CHmisakiA:thighTwistc_R
+    400226: CHmisakiA:thighVolB_L
+    400228: CHmisakiA:thighVolB_R
+    400230: CHmisakiA:thumbBase_L
+    400232: CHmisakiA:thumbBase_R
+    400234: CHmisakiA:thumbMiddle_L
+    400236: CHmisakiA:thumbMiddle_R
+    400238: CHmisakiA:thumbTop_L
+    400240: CHmisakiA:thumbTop_R
+    400242: CHmisakiA:toe_L
+    400244: CHmisakiA:toe_R
+    400246: CHmisakiA:tongue
+    400248: CHmisakiA:tooth
+    400250: CHmisakiA:uparm_L
+    400252: CHmisakiA:uparm_R
+    400254: CHmisakiA:uparmTU_L
+    400256: CHmisakiA:uparmTU_R
+    400258: CHmisakiA:uparmTwista_L
+    400260: CHmisakiA:uparmTwista_R
+    400262: CHmisakiA:uparmTwistb_L
+    400264: CHmisakiA:uparmTwistb_R
+    400266: CHmisakiA:uparmTwistc_L
+    400268: CHmisakiA:uparmTwistc_R
+    400270: CHmisakiA:wristInTU_L
+    400272: CHmisakiA:wristInTU_R
+    400274: CHmisakiA:wristOutTU_L
+    400276: CHmisakiA:wristOutTU_R
+    4300000: CHmisakiA:skin
+    4300002: CHmisakiA:pants
+    4300004: CHmisakiA:legs
+    4300006: CHmisakiA:shoes
+    4300008: CHmisakiA:shirt
+    4300010: CHmisakiA:body
+    4300012: CHmisakiA:cuffs
+    4300014: CHmisakiA:scarf
+    4300016: CHmisakiA:collar
+    4300018: CHmisakiA:eyeline
+    4300020: CHmisakiA:hair
+    4300022: CHmisakiA:ribbon
+    4300024: CHmisakiA:hairTail
+    4300026: CHmisakiA:hairFront
+    4300028: CHmisakiA:eyeBall
+    4300030: CHmisakiA:headNose
+    4300032: CHmisakiA:eyeHighLight
+    4300034: CHmisakiA:mayu
+    4300036: CHmisakiA:tooth
+    4300038: CHmisakiA:tongue
+    4300040: CHmisakiA:head
+    7400000: C6misaki_anim
+    9500000: //RootNode
+    13700000: CHmisakiA:body
+    13700002: CHmisakiA:collar
+    13700004: CHmisakiA:cuffs
+    13700006: CHmisakiA:eyeBall
+    13700008: CHmisakiA:eyeHighLight
+    13700010: CHmisakiA:eyeline
+    13700012: CHmisakiA:hair
+    13700014: CHmisakiA:hairFront
+    13700016: CHmisakiA:hairTail
+    13700018: CHmisakiA:head
+    13700020: CHmisakiA:headNose
+    13700022: CHmisakiA:legs
+    13700024: CHmisakiA:mayu
+    13700026: CHmisakiA:pants
+    13700028: CHmisakiA:ribbon
+    13700030: CHmisakiA:scarf
+    13700032: CHmisakiA:shirt
+    13700034: CHmisakiA:shoes
+    13700036: CHmisakiA:skin
+    13700038: CHmisakiA:tongue
+    13700040: CHmisakiA:tooth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C6misaki_anim
+      takeName: Take 001
+      firstFrame: 94
+      lastFrame: 189
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CHmisakiA:model_grp
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:body
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:collar
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:cuffs
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:eyeBall
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:eyeHighLight
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:eyeline
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:hair
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:hairFront
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:hairTail
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:head
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:headNose
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:legs
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:mayu
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:pants
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:ribbon
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:scarf
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:shirt
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:shoes
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:skin
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:tongue
+        weight: 1
+      - path: CHmisakiA:model_grp/CHmisakiA:tooth
+        weight: 1
+      - path: CHmisakiA:Reference
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTU_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:indexRoot_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:indexRoot_L/CHmisakiA:indexBase_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:indexRoot_L/CHmisakiA:indexBase_L/CHmisakiA:indexMiddle_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:indexRoot_L/CHmisakiA:indexBase_L/CHmisakiA:indexMiddle_L/CHmisakiA:indexTop_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:middleRoot_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:middleRoot_L/CHmisakiA:middleBase_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:middleRoot_L/CHmisakiA:middleBase_L/CHmisakiA:middleMiddle_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:middleRoot_L/CHmisakiA:middleBase_L/CHmisakiA:middleMiddle_L/CHmisakiA:middleTop_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:pinkyRoot_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:pinkyRoot_L/CHmisakiA:pinkyBase_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:pinkyRoot_L/CHmisakiA:pinkyBase_L/CHmisakiA:pinkyMiddle_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:pinkyRoot_L/CHmisakiA:pinkyBase_L/CHmisakiA:pinkyMiddle_L/CHmisakiA:pinkyTop_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:ringRoot_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:ringRoot_L/CHmisakiA:ringBase_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:ringRoot_L/CHmisakiA:ringBase_L/CHmisakiA:ringMiddle_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:ringRoot_L/CHmisakiA:ringBase_L/CHmisakiA:ringMiddle_L/CHmisakiA:ringTop_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:thumbBase_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:thumbBase_L/CHmisakiA:thumbMiddle_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:hand_L/CHmisakiA:thumbBase_L/CHmisakiA:thumbMiddle_L/CHmisakiA:thumbTop_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:handHR_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:handHR_L/CHmisakiA:wristInTU_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarm_L/CHmisakiA:lowarmTwista_L/CHmisakiA:lowarmTwistb_L/CHmisakiA:lowarmTwistc_L/CHmisakiA:handHR_L/CHmisakiA:wristOutTU_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarmHR_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:lowarmHR_L/CHmisakiA:elbow_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_L/CHmisakiA:uparm_L/CHmisakiA:uparmTwista_L/CHmisakiA:uparmTwistb_L/CHmisakiA:uparmTwistc_L/CHmisakiA:uparmTU_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTU_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:indexRoot_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:indexRoot_R/CHmisakiA:indexBase_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:indexRoot_R/CHmisakiA:indexBase_R/CHmisakiA:indexMiddle_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:indexRoot_R/CHmisakiA:indexBase_R/CHmisakiA:indexMiddle_R/CHmisakiA:indexTop_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:middleRoot_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:middleRoot_R/CHmisakiA:middleBase_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:middleRoot_R/CHmisakiA:middleBase_R/CHmisakiA:middleMiddle_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:middleRoot_R/CHmisakiA:middleBase_R/CHmisakiA:middleMiddle_R/CHmisakiA:middleTop_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:pinkyRoot_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:pinkyRoot_R/CHmisakiA:pinkyBase_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:pinkyRoot_R/CHmisakiA:pinkyBase_R/CHmisakiA:pinkyMiddle_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:pinkyRoot_R/CHmisakiA:pinkyBase_R/CHmisakiA:pinkyMiddle_R/CHmisakiA:pinkyTop_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:ringRoot_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:ringRoot_R/CHmisakiA:ringBase_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:ringRoot_R/CHmisakiA:ringBase_R/CHmisakiA:ringMiddle_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:ringRoot_R/CHmisakiA:ringBase_R/CHmisakiA:ringMiddle_R/CHmisakiA:ringTop_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:thumbBase_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:thumbBase_R/CHmisakiA:thumbMiddle_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:hand_R/CHmisakiA:thumbBase_R/CHmisakiA:thumbMiddle_R/CHmisakiA:thumbTop_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:handHR_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:handHR_R/CHmisakiA:wristInTU_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarm_R/CHmisakiA:lowarmTwista_R/CHmisakiA:lowarmTwistb_R/CHmisakiA:lowarmTwistc_R/CHmisakiA:handHR_R/CHmisakiA:wristOutTU_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarmHR_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:lowarmHR_R/CHmisakiA:elbow_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:clavicle_R/CHmisakiA:uparm_R/CHmisakiA:uparmTwista_R/CHmisakiA:uparmTwistb_R/CHmisakiA:uparmTwistc_R/CHmisakiA:uparmTU_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:neck_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:neck_C/CHmisakiA:neckTwsta_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:neck_C/CHmisakiA:neckTwsta_C/CHmisakiA:neckTwstb_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:neck_C/CHmisakiA:neckTwsta_C/CHmisakiA:neckTwstb_C/CHmisakiA:neckTwstc_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:spineA_C/CHmisakiA:spineB_C/CHmisakiA:spineC_C/CHmisakiA:neck_C/CHmisakiA:neckTwsta_C/CHmisakiA:neckTwstb_C/CHmisakiA:neckTwstc_C/CHmisakiA:head_C
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L/CHmisakiA:lowlegTU_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L/CHmisakiA:lowlegTwista_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L/CHmisakiA:lowlegTwista_L/CHmisakiA:calfVolA_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L/CHmisakiA:lowlegTwista_L/CHmisakiA:lowlegTwistb_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L/CHmisakiA:lowlegTwista_L/CHmisakiA:lowlegTwistb_L/CHmisakiA:lowlegTwistc_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L/CHmisakiA:lowlegTwista_L/CHmisakiA:lowlegTwistb_L/CHmisakiA:lowlegTwistc_L/CHmisakiA:foot_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowleg_L/CHmisakiA:lowlegTwista_L/CHmisakiA:lowlegTwistb_L/CHmisakiA:lowlegTwistc_L/CHmisakiA:foot_L/CHmisakiA:toe_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowlegHR_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowlegHR_L/CHmisakiA:backKnee_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:lowlegHR_L/CHmisakiA:kneeFrontTU_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighTwistc_L/CHmisakiA:thighTU_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_L/CHmisakiA:thighTwista_L/CHmisakiA:thighTwistb_L/CHmisakiA:thighVolB_L
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R/CHmisakiA:lowlegTU_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R/CHmisakiA:lowlegTwista_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R/CHmisakiA:lowlegTwista_R/CHmisakiA:calfVolA_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R/CHmisakiA:lowlegTwista_R/CHmisakiA:lowlegTwistb_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R/CHmisakiA:lowlegTwista_R/CHmisakiA:lowlegTwistb_R/CHmisakiA:lowlegTwistc_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R/CHmisakiA:lowlegTwista_R/CHmisakiA:lowlegTwistb_R/CHmisakiA:lowlegTwistc_R/CHmisakiA:foot_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowleg_R/CHmisakiA:lowlegTwista_R/CHmisakiA:lowlegTwistb_R/CHmisakiA:lowlegTwistc_R/CHmisakiA:foot_R/CHmisakiA:toe_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowlegHR_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowlegHR_R/CHmisakiA:backKnee_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:lowlegHR_R/CHmisakiA:kneeFrontTU_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighTwistc_R/CHmisakiA:thighTU_R
+        weight: 1
+      - path: CHmisakiA:Reference/CHmisakiA:hip_C/CHmisakiA:thigh_R/CHmisakiA:thighTwista_R/CHmisakiA:thighTwistb_R/CHmisakiA:thighVolB_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

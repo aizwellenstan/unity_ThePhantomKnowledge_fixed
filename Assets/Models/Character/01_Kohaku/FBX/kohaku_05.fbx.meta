@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: a78f3c532c9c24b4399ff2ecd2f3a985
+timeCreated: 1488336260
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armcover
+    100002: belt
+    100004: body
+    100006: BonePos_Body
+    100008: BonePos_Eyes
+    100010: collar
+    100012: cuffs
+    100014: eyeBall
+    100016: eyeHighLight
+    100018: eyeline
+    100020: frill
+    100022: head
+    100024: headNormal
+    100026: headNose
+    100028: horn
+    100030: //RootNode
+    100032: kwep_exebreaker
+    100034: legs
+    100036: mantle
+    100038: mayu
+    100040: pants
+    100042: scarf
+    100044: shirt
+    100046: shoes
+    100048: shoesExtend
+    100050: skin
+    100052: tongue
+    100054: tooth
+    100056: wristband
+    400000: armcover
+    400002: belt
+    400004: body
+    400006: BonePos_Body
+    400008: BonePos_Eyes
+    400010: collar
+    400012: cuffs
+    400014: eyeBall
+    400016: eyeHighLight
+    400018: eyeline
+    400020: frill
+    400022: head
+    400024: headNormal
+    400026: headNose
+    400028: horn
+    400030: //RootNode
+    400032: kwep_exebreaker
+    400034: legs
+    400036: mantle
+    400038: mayu
+    400040: pants
+    400042: scarf
+    400044: shirt
+    400046: shoes
+    400048: shoesExtend
+    400050: skin
+    400052: tongue
+    400054: tooth
+    400056: wristband
+    2300000: armcover
+    2300002: belt
+    2300004: body
+    2300006: BonePos_Body
+    2300008: BonePos_Eyes
+    2300010: collar
+    2300012: cuffs
+    2300014: eyeBall
+    2300016: eyeHighLight
+    2300018: eyeline
+    2300020: frill
+    2300022: head
+    2300024: headNormal
+    2300026: headNose
+    2300028: horn
+    2300030: kwep_exebreaker
+    2300032: legs
+    2300034: mantle
+    2300036: mayu
+    2300038: pants
+    2300040: scarf
+    2300042: shirt
+    2300044: shoes
+    2300046: shoesExtend
+    2300048: skin
+    2300050: tongue
+    2300052: tooth
+    2300054: wristband
+    3300000: armcover
+    3300002: belt
+    3300004: body
+    3300006: BonePos_Body
+    3300008: BonePos_Eyes
+    3300010: collar
+    3300012: cuffs
+    3300014: eyeBall
+    3300016: eyeHighLight
+    3300018: eyeline
+    3300020: frill
+    3300022: head
+    3300024: headNormal
+    3300026: headNose
+    3300028: horn
+    3300030: kwep_exebreaker
+    3300032: legs
+    3300034: mantle
+    3300036: mayu
+    3300038: pants
+    3300040: scarf
+    3300042: shirt
+    3300044: shoes
+    3300046: shoesExtend
+    3300048: skin
+    3300050: tongue
+    3300052: tooth
+    3300054: wristband
+    4300000: BonePos_Eyes
+    4300002: BonePos_Body
+    4300004: horn
+    4300006: eyeBall
+    4300008: eyeHighLight
+    4300010: headNormal
+    4300012: head
+    4300014: headNose
+    4300016: tongue
+    4300018: tooth
+    4300020: eyeline
+    4300022: mayu
+    4300024: skin
+    4300026: pants
+    4300028: legs
+    4300030: shoes
+    4300032: shoesExtend
+    4300034: shirt
+    4300036: body
+    4300038: cuffs
+    4300040: scarf
+    4300042: collar
+    4300044: armcover
+    4300046: wristband
+    4300048: belt
+    4300050: frill
+    4300052: mantle
+    4300054: kwep_exebreaker
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

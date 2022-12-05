@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 6c126e8484e59064697968439bf72114
+timeCreated: 1489029707
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 20
+  fileIDToRecycleName:
+    100000: Arm
+    100002: Brow
+    100004: Cape
+    100006: Eyeball
+    100008: EyeballHL
+    100010: Hair
+    100012: HairNormal
+    100014: Hand
+    100016: Head
+    100018: HeadNormal
+    100020: Inner
+    100022: Pants
+    100024: Saya
+    100026: Shirt
+    100028: Shoes
+    100030: Skin
+    100032: Sword
+    100034: Tongue
+    100036: Tooth
+    100038: WaistParts
+    100040: //RootNode
+    400000: Arm
+    400002: Brow
+    400004: Cape
+    400006: Eyeball
+    400008: EyeballHL
+    400010: Hair
+    400012: HairNormal
+    400014: Hand
+    400016: Head
+    400018: HeadNormal
+    400020: Inner
+    400022: Pants
+    400024: Saya
+    400026: Shirt
+    400028: Shoes
+    400030: Skin
+    400032: Sword
+    400034: Tongue
+    400036: Tooth
+    400038: WaistParts
+    400040: //RootNode
+    2300000: Arm
+    2300002: Brow
+    2300004: Cape
+    2300006: Eyeball
+    2300008: EyeballHL
+    2300010: Hair
+    2300012: HairNormal
+    2300014: Hand
+    2300016: Head
+    2300018: HeadNormal
+    2300020: Inner
+    2300022: Pants
+    2300024: Saya
+    2300026: Shirt
+    2300028: Shoes
+    2300030: Skin
+    2300032: Sword
+    2300034: Tongue
+    2300036: Tooth
+    2300038: WaistParts
+    2300040: //RootNode
+    3300000: Arm
+    3300002: Brow
+    3300004: Cape
+    3300006: Eyeball
+    3300008: EyeballHL
+    3300010: Hair
+    3300012: HairNormal
+    3300014: Hand
+    3300016: Head
+    3300018: HeadNormal
+    3300020: Inner
+    3300022: Pants
+    3300024: Saya
+    3300026: Shirt
+    3300028: Shoes
+    3300030: Skin
+    3300032: Sword
+    3300034: Tongue
+    3300036: Tooth
+    3300038: WaistParts
+    3300040: //RootNode
+    4300000: WaistParts
+    4300002: Shoes
+    4300004: Shirt
+    4300006: Arm
+    4300008: Skin
+    4300010: Inner
+    4300012: Hand
+    4300014: Pants
+    4300016: Cape
+    4300018: Eyeball
+    4300020: EyeballHL
+    4300022: Tooth
+    4300024: Head
+    4300026: HeadNormal
+    4300028: Tongue
+    4300030: Hair
+    4300032: HairNormal
+    4300034: Brow
+    4300036: Sword
+    4300038: Saya
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

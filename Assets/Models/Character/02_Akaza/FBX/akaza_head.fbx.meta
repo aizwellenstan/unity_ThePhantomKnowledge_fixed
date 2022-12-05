@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 0b7197c2512072a45a83e5888b0dd38f
+timeCreated: 1491202435
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: akaMimi
+    100002: //RootNode
+    100004: eyeBall
+    100006: eyeHighLight
+    100008: eyeline
+    100010: hairBack
+    100012: hairFront
+    100014: hairMomi
+    100016: hairNormal
+    100018: hairSideA
+    100020: hairSideB
+    100022: hairTail
+    100024: head
+    100026: headNormal
+    100028: headNose
+    100030: mayu
+    100032: tongue
+    100034: tooth
+    400000: akaMimi
+    400002: //RootNode
+    400004: eyeBall
+    400006: eyeHighLight
+    400008: eyeline
+    400010: hairBack
+    400012: hairFront
+    400014: hairMomi
+    400016: hairNormal
+    400018: hairSideA
+    400020: hairSideB
+    400022: hairTail
+    400024: head
+    400026: headNormal
+    400028: headNose
+    400030: mayu
+    400032: tongue
+    400034: tooth
+    2300000: akaMimi
+    2300002: eyeBall
+    2300004: eyeHighLight
+    2300006: eyeline
+    2300008: hairBack
+    2300010: hairFront
+    2300012: hairMomi
+    2300014: hairNormal
+    2300016: hairSideA
+    2300018: hairSideB
+    2300020: hairTail
+    2300022: head
+    2300024: headNormal
+    2300026: headNose
+    2300028: mayu
+    2300030: tongue
+    2300032: tooth
+    3300000: akaMimi
+    3300002: eyeBall
+    3300004: eyeHighLight
+    3300006: eyeline
+    3300008: hairBack
+    3300010: hairFront
+    3300012: hairMomi
+    3300014: hairNormal
+    3300016: hairSideA
+    3300018: hairSideB
+    3300020: hairTail
+    3300022: head
+    3300024: headNormal
+    3300026: headNose
+    3300028: mayu
+    3300030: tongue
+    3300032: tooth
+    4300000: headNormal
+    4300002: head
+    4300004: mayu
+    4300006: tooth
+    4300008: eyeline
+    4300010: headNose
+    4300012: eyeBall
+    4300014: tongue
+    4300016: eyeHighLight
+    4300018: akaMimi
+    4300020: hairNormal
+    4300022: hairMomi
+    4300024: hairTail
+    4300026: hairBack
+    4300028: hairSideA
+    4300030: hairSideB
+    4300032: hairFront
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

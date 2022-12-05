@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 014f7d25965c6fc4a9b7c9a773568f26
+timeCreated: 1493277433
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 20
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: noise_p
+    100004: noise_p001
+    100006: noise_p002
+    100008: noise_p003
+    100010: noise_p004
+    100012: noise_p005
+    100014: noise_p006
+    100016: noise_p007
+    100018: noise_p008
+    100020: noise_p009
+    100022: tear_headpos
+    100024: tear_tare003
+    100026: tear_tare004
+    100028: tear_tare005
+    100030: tear_tareBoneL00
+    100032: tear_tareBoneL004
+    100034: tear_tareBoneL005
+    100036: tear_tareBoneL006
+    100038: tear_tareBoneL007
+    100040: tear_tareBoneL008
+    100042: tear_tareBoneL009
+    100044: tear_tareBoneL01
+    100046: tear_tareBoneL010
+    100048: tear_tareBoneL011
+    100050: tear_tareBoneL02
+    100052: tear_tareBoneL03
+    100054: tearMesh00
+    100056: tearMesh01
+    100058: tearMesh02
+    100060: tearMesh03
+    100062: tearMesh04
+    100064: tearMesh05
+    100066: tearMesh06
+    100068: tearMesh07
+    100070: tearMesh08
+    100072: tearMeshS
+    100074: tearMeshS001
+    100076: tearMeshS002
+    100078: tearMeshS003
+    100080: tearMeshS004
+    100082: tearMeshS005
+    100084: tearMeshS006
+    400000: //RootNode
+    400002: noise_p
+    400004: noise_p001
+    400006: noise_p002
+    400008: noise_p003
+    400010: noise_p004
+    400012: noise_p005
+    400014: noise_p006
+    400016: noise_p007
+    400018: noise_p008
+    400020: noise_p009
+    400022: tear_headpos
+    400024: tear_tare003
+    400026: tear_tare004
+    400028: tear_tare005
+    400030: tear_tareBoneL00
+    400032: tear_tareBoneL004
+    400034: tear_tareBoneL005
+    400036: tear_tareBoneL006
+    400038: tear_tareBoneL007
+    400040: tear_tareBoneL008
+    400042: tear_tareBoneL009
+    400044: tear_tareBoneL01
+    400046: tear_tareBoneL010
+    400048: tear_tareBoneL011
+    400050: tear_tareBoneL02
+    400052: tear_tareBoneL03
+    400054: tearMesh00
+    400056: tearMesh01
+    400058: tearMesh02
+    400060: tearMesh03
+    400062: tearMesh04
+    400064: tearMesh05
+    400066: tearMesh06
+    400068: tearMesh07
+    400070: tearMesh08
+    400072: tearMeshS
+    400074: tearMeshS001
+    400076: tearMeshS002
+    400078: tearMeshS003
+    400080: tearMeshS004
+    400082: tearMeshS005
+    400084: tearMeshS006
+    2300000: tearMesh00
+    2300002: tearMesh01
+    2300004: tearMesh02
+    2300006: tearMesh03
+    2300008: tearMesh04
+    2300010: tearMesh05
+    2300012: tearMesh06
+    2300014: tearMesh07
+    2300016: tearMesh08
+    2300018: tearMeshS
+    2300020: tearMeshS001
+    2300022: tearMeshS002
+    2300024: tearMeshS003
+    2300026: tearMeshS004
+    2300028: tearMeshS005
+    2300030: tearMeshS006
+    3300000: tearMesh00
+    3300002: tearMesh01
+    3300004: tearMesh02
+    3300006: tearMesh03
+    3300008: tearMesh04
+    3300010: tearMesh05
+    3300012: tearMesh06
+    3300014: tearMesh07
+    3300016: tearMesh08
+    3300018: tearMeshS
+    3300020: tearMeshS001
+    3300022: tearMeshS002
+    3300024: tearMeshS003
+    3300026: tearMeshS004
+    3300028: tearMeshS005
+    3300030: tearMeshS006
+    4300000: tearMesh02
+    4300002: tearMesh03
+    4300004: tearMesh04
+    4300006: tearMesh01
+    4300008: tearMesh00
+    4300010: tearMesh05
+    4300012: tearMesh06
+    4300014: tearMesh07
+    4300016: tearMesh08
+    4300018: tear_tare003
+    4300020: tear_tare004
+    4300022: tear_tare005
+    4300024: tearMeshS
+    4300026: tearMeshS001
+    4300028: tearMeshS002
+    4300030: tearMeshS003
+    4300032: tearMeshS004
+    4300034: tearMeshS005
+    4300036: tearMeshS006
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: tear_tare003
+    13700002: tear_tare004
+    13700004: tear_tare005
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

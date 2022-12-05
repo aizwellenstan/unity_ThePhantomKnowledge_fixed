@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: df44d9ef10f31e84f93051bc3a2eb7e4
+timeCreated: 1488946034
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chair
+    100002: colidor
+    100004: desk
+    100006: glass
+    100008: obj4
+    100010: roof
+    100012: server
+    100014: //RootNode
+    100016: UI
+    100018: UI_back
+    100020: wall1
+    100022: wall2
+    100024: obj1
+    100026: obj2
+    100028: dialogue
+    100030: keyboard
+    100032: minitor_L
+    100034: monitor_C
+    100036: monitor_R
+    100038: shelf
+    400000: chair
+    400002: colidor
+    400004: desk
+    400006: glass
+    400008: obj4
+    400010: roof
+    400012: server
+    400014: //RootNode
+    400016: UI
+    400018: UI_back
+    400020: wall1
+    400022: wall2
+    400024: obj1
+    400026: obj2
+    400028: dialogue
+    400030: keyboard
+    400032: minitor_L
+    400034: monitor_C
+    400036: monitor_R
+    400038: shelf
+    2300000: chair
+    2300002: colidor
+    2300004: desk
+    2300006: glass
+    2300008: obj4
+    2300010: roof
+    2300012: server
+    2300014: UI
+    2300016: UI_back
+    2300018: wall1
+    2300020: wall2
+    2300022: obj1
+    2300024: obj2
+    2300026: dialogue
+    2300028: keyboard
+    2300030: minitor_L
+    2300032: monitor_C
+    2300034: monitor_R
+    2300036: shelf
+    3300000: chair
+    3300002: colidor
+    3300004: desk
+    3300006: glass
+    3300008: obj4
+    3300010: roof
+    3300012: server
+    3300014: UI
+    3300016: UI_back
+    3300018: wall1
+    3300020: wall2
+    3300022: obj1
+    3300024: obj2
+    3300026: dialogue
+    3300028: keyboard
+    3300030: minitor_L
+    3300032: monitor_C
+    3300034: monitor_R
+    3300036: shelf
+    4300000: wall1
+    4300002: wall2
+    4300004: server
+    4300006: obj4
+    4300008: desk
+    4300010: chair
+    4300012: UI
+    4300014: UI_back
+    4300016: roof
+    4300018: colidor
+    4300020: glass
+    4300022: obj1
+    4300024: obj2
+    4300026: keyboard
+    4300028: minitor_L
+    4300030: monitor_C
+    4300032: dialogue
+    4300034: monitor_R
+    4300036: shelf
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

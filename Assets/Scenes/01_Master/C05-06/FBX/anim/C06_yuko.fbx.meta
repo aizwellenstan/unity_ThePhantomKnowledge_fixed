@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: d91c0771be1ac744c820ae08c9c89ea6
+timeCreated: 1490945201
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CHyukoA:backKnee_L
+    100004: CHyukoA:backKnee_R
+    100006: CHyukoA:body
+    100008: CHyukoA:calfVolA_L
+    100010: CHyukoA:calfVolA_R
+    100012: CHyukoA:clavicle_L
+    100014: CHyukoA:clavicle_R
+    100016: CHyukoA:collar
+    100018: CHyukoA:cuffs
+    100020: CHyukoA:elbow_L
+    100022: CHyukoA:elbow_R
+    100024: CHyukoA:eyeBall
+    100026: CHyukoA:eyeHighLight
+    100028: CHyukoA:eyeline
+    100030: CHyukoA:foot_L
+    100032: CHyukoA:foot_R
+    100034: CHyukoA:hair
+    100036: CHyukoA:hand_L
+    100038: CHyukoA:hand_R
+    100040: CHyukoA:handHR_L
+    100042: CHyukoA:handHR_R
+    100044: CHyukoA:head
+    100046: CHyukoA:head_C
+    100048: CHyukoA:hip_C
+    100050: CHyukoA:indexBase_L
+    100052: CHyukoA:indexBase_R
+    100054: CHyukoA:indexMiddle_L
+    100056: CHyukoA:indexMiddle_R
+    100058: CHyukoA:indexRoot_L
+    100060: CHyukoA:indexRoot_R
+    100062: CHyukoA:indexTop_L
+    100064: CHyukoA:indexTop_R
+    100066: CHyukoA:kneeFrontTU_L
+    100068: CHyukoA:kneeFrontTU_R
+    100070: CHyukoA:legs
+    100072: CHyukoA:lowarm_L
+    100074: CHyukoA:lowarm_R
+    100076: CHyukoA:lowarmHR_L
+    100078: CHyukoA:lowarmHR_R
+    100080: CHyukoA:lowarmTU_L
+    100082: CHyukoA:lowarmTU_R
+    100084: CHyukoA:lowarmTwista_L
+    100086: CHyukoA:lowarmTwista_R
+    100088: CHyukoA:lowarmTwistb_L
+    100090: CHyukoA:lowarmTwistb_R
+    100092: CHyukoA:lowarmTwistc_L
+    100094: CHyukoA:lowarmTwistc_R
+    100096: CHyukoA:lowleg_L
+    100098: CHyukoA:lowleg_R
+    100100: CHyukoA:lowlegHR_L
+    100102: CHyukoA:lowlegHR_R
+    100104: CHyukoA:lowlegTU_L
+    100106: CHyukoA:lowlegTU_R
+    100108: CHyukoA:lowlegTwista_L
+    100110: CHyukoA:lowlegTwista_R
+    100112: CHyukoA:lowlegTwistb_L
+    100114: CHyukoA:lowlegTwistb_R
+    100116: CHyukoA:lowlegTwistc_L
+    100118: CHyukoA:lowlegTwistc_R
+    100120: CHyukoA:mayu
+    100122: CHyukoA:middleBase_L
+    100124: CHyukoA:middleBase_R
+    100126: CHyukoA:middleMiddle_L
+    100128: CHyukoA:middleMiddle_R
+    100130: CHyukoA:middleRoot_L
+    100132: CHyukoA:middleRoot_R
+    100134: CHyukoA:middleTop_L
+    100136: CHyukoA:middleTop_R
+    100138: CHyukoA:model_grp
+    100140: CHyukoA:neck_C
+    100142: CHyukoA:neckTwsta_C
+    100144: CHyukoA:neckTwstb_C
+    100146: CHyukoA:neckTwstc_C
+    100148: CHyukoA:nose
+    100150: CHyukoA:pants
+    100152: CHyukoA:pinkyBase_L
+    100154: CHyukoA:pinkyBase_R
+    100156: CHyukoA:pinkyMiddle_L
+    100158: CHyukoA:pinkyMiddle_R
+    100160: CHyukoA:pinkyRoot_L
+    100162: CHyukoA:pinkyRoot_R
+    100164: CHyukoA:pinkyTop_L
+    100166: CHyukoA:pinkyTop_R
+    100168: CHyukoA:Reference
+    100170: CHyukoA:ringBase_L
+    100172: CHyukoA:ringBase_R
+    100174: CHyukoA:ringMiddle_L
+    100176: CHyukoA:ringMiddle_R
+    100178: CHyukoA:ringRoot_L
+    100180: CHyukoA:ringRoot_R
+    100182: CHyukoA:ringTop_L
+    100184: CHyukoA:ringTop_R
+    100186: CHyukoA:scarf
+    100188: CHyukoA:shirt
+    100190: CHyukoA:shoes
+    100192: CHyukoA:skin
+    100194: CHyukoA:spineA_C
+    100196: CHyukoA:spineB_C
+    100198: CHyukoA:spineC_C
+    100200: CHyukoA:thigh_L
+    100202: CHyukoA:thigh_R
+    100204: CHyukoA:thighTU_L
+    100206: CHyukoA:thighTU_R
+    100208: CHyukoA:thighTwista_L
+    100210: CHyukoA:thighTwista_R
+    100212: CHyukoA:thighTwistb_L
+    100214: CHyukoA:thighTwistb_R
+    100216: CHyukoA:thighTwistc_L
+    100218: CHyukoA:thighTwistc_R
+    100220: CHyukoA:thighVolB_L
+    100222: CHyukoA:thighVolB_R
+    100224: CHyukoA:thumbBase_L
+    100226: CHyukoA:thumbBase_R
+    100228: CHyukoA:thumbMiddle_L
+    100230: CHyukoA:thumbMiddle_R
+    100232: CHyukoA:thumbTop_L
+    100234: CHyukoA:thumbTop_R
+    100236: CHyukoA:toe_L
+    100238: CHyukoA:toe_R
+    100240: CHyukoA:tongue
+    100242: CHyukoA:tooth
+    100244: CHyukoA:uparm_L
+    100246: CHyukoA:uparm_R
+    100248: CHyukoA:uparmTU_L
+    100250: CHyukoA:uparmTU_R
+    100252: CHyukoA:uparmTwista_L
+    100254: CHyukoA:uparmTwista_R
+    100256: CHyukoA:uparmTwistb_L
+    100258: CHyukoA:uparmTwistb_R
+    100260: CHyukoA:uparmTwistc_L
+    100262: CHyukoA:uparmTwistc_R
+    100264: CHyukoA:wristInTU_L
+    100266: CHyukoA:wristInTU_R
+    100268: CHyukoA:wristOutTU_L
+    100270: CHyukoA:wristOutTU_R
+    400000: //RootNode
+    400002: CHyukoA:backKnee_L
+    400004: CHyukoA:backKnee_R
+    400006: CHyukoA:body
+    400008: CHyukoA:calfVolA_L
+    400010: CHyukoA:calfVolA_R
+    400012: CHyukoA:clavicle_L
+    400014: CHyukoA:clavicle_R
+    400016: CHyukoA:collar
+    400018: CHyukoA:cuffs
+    400020: CHyukoA:elbow_L
+    400022: CHyukoA:elbow_R
+    400024: CHyukoA:eyeBall
+    400026: CHyukoA:eyeHighLight
+    400028: CHyukoA:eyeline
+    400030: CHyukoA:foot_L
+    400032: CHyukoA:foot_R
+    400034: CHyukoA:hair
+    400036: CHyukoA:hand_L
+    400038: CHyukoA:hand_R
+    400040: CHyukoA:handHR_L
+    400042: CHyukoA:handHR_R
+    400044: CHyukoA:head
+    400046: CHyukoA:head_C
+    400048: CHyukoA:hip_C
+    400050: CHyukoA:indexBase_L
+    400052: CHyukoA:indexBase_R
+    400054: CHyukoA:indexMiddle_L
+    400056: CHyukoA:indexMiddle_R
+    400058: CHyukoA:indexRoot_L
+    400060: CHyukoA:indexRoot_R
+    400062: CHyukoA:indexTop_L
+    400064: CHyukoA:indexTop_R
+    400066: CHyukoA:kneeFrontTU_L
+    400068: CHyukoA:kneeFrontTU_R
+    400070: CHyukoA:legs
+    400072: CHyukoA:lowarm_L
+    400074: CHyukoA:lowarm_R
+    400076: CHyukoA:lowarmHR_L
+    400078: CHyukoA:lowarmHR_R
+    400080: CHyukoA:lowarmTU_L
+    400082: CHyukoA:lowarmTU_R
+    400084: CHyukoA:lowarmTwista_L
+    400086: CHyukoA:lowarmTwista_R
+    400088: CHyukoA:lowarmTwistb_L
+    400090: CHyukoA:lowarmTwistb_R
+    400092: CHyukoA:lowarmTwistc_L
+    400094: CHyukoA:lowarmTwistc_R
+    400096: CHyukoA:lowleg_L
+    400098: CHyukoA:lowleg_R
+    400100: CHyukoA:lowlegHR_L
+    400102: CHyukoA:lowlegHR_R
+    400104: CHyukoA:lowlegTU_L
+    400106: CHyukoA:lowlegTU_R
+    400108: CHyukoA:lowlegTwista_L
+    400110: CHyukoA:lowlegTwista_R
+    400112: CHyukoA:lowlegTwistb_L
+    400114: CHyukoA:lowlegTwistb_R
+    400116: CHyukoA:lowlegTwistc_L
+    400118: CHyukoA:lowlegTwistc_R
+    400120: CHyukoA:mayu
+    400122: CHyukoA:middleBase_L
+    400124: CHyukoA:middleBase_R
+    400126: CHyukoA:middleMiddle_L
+    400128: CHyukoA:middleMiddle_R
+    400130: CHyukoA:middleRoot_L
+    400132: CHyukoA:middleRoot_R
+    400134: CHyukoA:middleTop_L
+    400136: CHyukoA:middleTop_R
+    400138: CHyukoA:model_grp
+    400140: CHyukoA:neck_C
+    400142: CHyukoA:neckTwsta_C
+    400144: CHyukoA:neckTwstb_C
+    400146: CHyukoA:neckTwstc_C
+    400148: CHyukoA:nose
+    400150: CHyukoA:pants
+    400152: CHyukoA:pinkyBase_L
+    400154: CHyukoA:pinkyBase_R
+    400156: CHyukoA:pinkyMiddle_L
+    400158: CHyukoA:pinkyMiddle_R
+    400160: CHyukoA:pinkyRoot_L
+    400162: CHyukoA:pinkyRoot_R
+    400164: CHyukoA:pinkyTop_L
+    400166: CHyukoA:pinkyTop_R
+    400168: CHyukoA:Reference
+    400170: CHyukoA:ringBase_L
+    400172: CHyukoA:ringBase_R
+    400174: CHyukoA:ringMiddle_L
+    400176: CHyukoA:ringMiddle_R
+    400178: CHyukoA:ringRoot_L
+    400180: CHyukoA:ringRoot_R
+    400182: CHyukoA:ringTop_L
+    400184: CHyukoA:ringTop_R
+    400186: CHyukoA:scarf
+    400188: CHyukoA:shirt
+    400190: CHyukoA:shoes
+    400192: CHyukoA:skin
+    400194: CHyukoA:spineA_C
+    400196: CHyukoA:spineB_C
+    400198: CHyukoA:spineC_C
+    400200: CHyukoA:thigh_L
+    400202: CHyukoA:thigh_R
+    400204: CHyukoA:thighTU_L
+    400206: CHyukoA:thighTU_R
+    400208: CHyukoA:thighTwista_L
+    400210: CHyukoA:thighTwista_R
+    400212: CHyukoA:thighTwistb_L
+    400214: CHyukoA:thighTwistb_R
+    400216: CHyukoA:thighTwistc_L
+    400218: CHyukoA:thighTwistc_R
+    400220: CHyukoA:thighVolB_L
+    400222: CHyukoA:thighVolB_R
+    400224: CHyukoA:thumbBase_L
+    400226: CHyukoA:thumbBase_R
+    400228: CHyukoA:thumbMiddle_L
+    400230: CHyukoA:thumbMiddle_R
+    400232: CHyukoA:thumbTop_L
+    400234: CHyukoA:thumbTop_R
+    400236: CHyukoA:toe_L
+    400238: CHyukoA:toe_R
+    400240: CHyukoA:tongue
+    400242: CHyukoA:tooth
+    400244: CHyukoA:uparm_L
+    400246: CHyukoA:uparm_R
+    400248: CHyukoA:uparmTU_L
+    400250: CHyukoA:uparmTU_R
+    400252: CHyukoA:uparmTwista_L
+    400254: CHyukoA:uparmTwista_R
+    400256: CHyukoA:uparmTwistb_L
+    400258: CHyukoA:uparmTwistb_R
+    400260: CHyukoA:uparmTwistc_L
+    400262: CHyukoA:uparmTwistc_R
+    400264: CHyukoA:wristInTU_L
+    400266: CHyukoA:wristInTU_R
+    400268: CHyukoA:wristOutTU_L
+    400270: CHyukoA:wristOutTU_R
+    4300000: CHyukoA:tongue
+    4300002: CHyukoA:hair
+    4300004: CHyukoA:eyeline
+    4300006: CHyukoA:eyeBall
+    4300008: CHyukoA:nose
+    4300010: CHyukoA:mayu
+    4300012: CHyukoA:tooth
+    4300014: CHyukoA:eyeHighLight
+    4300016: CHyukoA:head
+    4300018: CHyukoA:skin
+    4300020: CHyukoA:pants
+    4300022: CHyukoA:legs
+    4300024: CHyukoA:shoes
+    4300026: CHyukoA:shirt
+    4300028: CHyukoA:body
+    4300030: CHyukoA:cuffs
+    4300032: CHyukoA:scarf
+    4300034: CHyukoA:collar
+    7400000: C06_yuko_anim30f
+    9500000: //RootNode
+    13700000: CHyukoA:body
+    13700002: CHyukoA:collar
+    13700004: CHyukoA:cuffs
+    13700006: CHyukoA:eyeBall
+    13700008: CHyukoA:eyeHighLight
+    13700010: CHyukoA:eyeline
+    13700012: CHyukoA:hair
+    13700014: CHyukoA:head
+    13700016: CHyukoA:legs
+    13700018: CHyukoA:mayu
+    13700020: CHyukoA:nose
+    13700022: CHyukoA:pants
+    13700024: CHyukoA:scarf
+    13700026: CHyukoA:shirt
+    13700028: CHyukoA:shoes
+    13700030: CHyukoA:skin
+    13700032: CHyukoA:tongue
+    13700034: CHyukoA:tooth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C06_yuko_anim30f
+      takeName: Take 001
+      firstFrame: 118
+      lastFrame: 236
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CHyukoA:model_grp
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:body
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:collar
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:cuffs
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:eyeBall
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:eyeHighLight
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:eyeline
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:hair
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:head
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:legs
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:mayu
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:nose
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:pants
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:scarf
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:shirt
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:shoes
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:skin
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:tongue
+        weight: 1
+      - path: CHyukoA:model_grp/CHyukoA:tooth
+        weight: 1
+      - path: CHyukoA:Reference
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTU_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:indexRoot_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:indexRoot_L/CHyukoA:indexBase_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:indexRoot_L/CHyukoA:indexBase_L/CHyukoA:indexMiddle_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:indexRoot_L/CHyukoA:indexBase_L/CHyukoA:indexMiddle_L/CHyukoA:indexTop_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:middleRoot_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:middleRoot_L/CHyukoA:middleBase_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:middleRoot_L/CHyukoA:middleBase_L/CHyukoA:middleMiddle_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:middleRoot_L/CHyukoA:middleBase_L/CHyukoA:middleMiddle_L/CHyukoA:middleTop_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:pinkyRoot_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:pinkyRoot_L/CHyukoA:pinkyBase_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:pinkyRoot_L/CHyukoA:pinkyBase_L/CHyukoA:pinkyMiddle_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:pinkyRoot_L/CHyukoA:pinkyBase_L/CHyukoA:pinkyMiddle_L/CHyukoA:pinkyTop_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:ringRoot_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:ringRoot_L/CHyukoA:ringBase_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:ringRoot_L/CHyukoA:ringBase_L/CHyukoA:ringMiddle_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:ringRoot_L/CHyukoA:ringBase_L/CHyukoA:ringMiddle_L/CHyukoA:ringTop_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:thumbBase_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:thumbBase_L/CHyukoA:thumbMiddle_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:hand_L/CHyukoA:thumbBase_L/CHyukoA:thumbMiddle_L/CHyukoA:thumbTop_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:handHR_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:handHR_L/CHyukoA:wristInTU_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarm_L/CHyukoA:lowarmTwista_L/CHyukoA:lowarmTwistb_L/CHyukoA:lowarmTwistc_L/CHyukoA:handHR_L/CHyukoA:wristOutTU_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarmHR_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:lowarmHR_L/CHyukoA:elbow_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_L/CHyukoA:uparm_L/CHyukoA:uparmTwista_L/CHyukoA:uparmTwistb_L/CHyukoA:uparmTwistc_L/CHyukoA:uparmTU_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTU_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:indexRoot_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:indexRoot_R/CHyukoA:indexBase_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:indexRoot_R/CHyukoA:indexBase_R/CHyukoA:indexMiddle_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:indexRoot_R/CHyukoA:indexBase_R/CHyukoA:indexMiddle_R/CHyukoA:indexTop_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:middleRoot_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:middleRoot_R/CHyukoA:middleBase_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:middleRoot_R/CHyukoA:middleBase_R/CHyukoA:middleMiddle_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:middleRoot_R/CHyukoA:middleBase_R/CHyukoA:middleMiddle_R/CHyukoA:middleTop_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:pinkyRoot_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:pinkyRoot_R/CHyukoA:pinkyBase_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:pinkyRoot_R/CHyukoA:pinkyBase_R/CHyukoA:pinkyMiddle_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:pinkyRoot_R/CHyukoA:pinkyBase_R/CHyukoA:pinkyMiddle_R/CHyukoA:pinkyTop_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:ringRoot_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:ringRoot_R/CHyukoA:ringBase_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:ringRoot_R/CHyukoA:ringBase_R/CHyukoA:ringMiddle_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:ringRoot_R/CHyukoA:ringBase_R/CHyukoA:ringMiddle_R/CHyukoA:ringTop_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:thumbBase_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:thumbBase_R/CHyukoA:thumbMiddle_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:hand_R/CHyukoA:thumbBase_R/CHyukoA:thumbMiddle_R/CHyukoA:thumbTop_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:handHR_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:handHR_R/CHyukoA:wristInTU_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarm_R/CHyukoA:lowarmTwista_R/CHyukoA:lowarmTwistb_R/CHyukoA:lowarmTwistc_R/CHyukoA:handHR_R/CHyukoA:wristOutTU_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarmHR_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:lowarmHR_R/CHyukoA:elbow_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:clavicle_R/CHyukoA:uparm_R/CHyukoA:uparmTwista_R/CHyukoA:uparmTwistb_R/CHyukoA:uparmTwistc_R/CHyukoA:uparmTU_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:neck_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:neck_C/CHyukoA:neckTwsta_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:neck_C/CHyukoA:neckTwsta_C/CHyukoA:neckTwstb_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:neck_C/CHyukoA:neckTwsta_C/CHyukoA:neckTwstb_C/CHyukoA:neckTwstc_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:spineA_C/CHyukoA:spineB_C/CHyukoA:spineC_C/CHyukoA:neck_C/CHyukoA:neckTwsta_C/CHyukoA:neckTwstb_C/CHyukoA:neckTwstc_C/CHyukoA:head_C
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L/CHyukoA:lowlegTU_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L/CHyukoA:lowlegTwista_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L/CHyukoA:lowlegTwista_L/CHyukoA:calfVolA_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L/CHyukoA:lowlegTwista_L/CHyukoA:lowlegTwistb_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L/CHyukoA:lowlegTwista_L/CHyukoA:lowlegTwistb_L/CHyukoA:lowlegTwistc_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L/CHyukoA:lowlegTwista_L/CHyukoA:lowlegTwistb_L/CHyukoA:lowlegTwistc_L/CHyukoA:foot_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowleg_L/CHyukoA:lowlegTwista_L/CHyukoA:lowlegTwistb_L/CHyukoA:lowlegTwistc_L/CHyukoA:foot_L/CHyukoA:toe_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowlegHR_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowlegHR_L/CHyukoA:backKnee_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:lowlegHR_L/CHyukoA:kneeFrontTU_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighTwistc_L/CHyukoA:thighTU_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_L/CHyukoA:thighTwista_L/CHyukoA:thighTwistb_L/CHyukoA:thighVolB_L
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R/CHyukoA:lowlegTU_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R/CHyukoA:lowlegTwista_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R/CHyukoA:lowlegTwista_R/CHyukoA:calfVolA_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R/CHyukoA:lowlegTwista_R/CHyukoA:lowlegTwistb_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R/CHyukoA:lowlegTwista_R/CHyukoA:lowlegTwistb_R/CHyukoA:lowlegTwistc_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R/CHyukoA:lowlegTwista_R/CHyukoA:lowlegTwistb_R/CHyukoA:lowlegTwistc_R/CHyukoA:foot_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowleg_R/CHyukoA:lowlegTwista_R/CHyukoA:lowlegTwistb_R/CHyukoA:lowlegTwistc_R/CHyukoA:foot_R/CHyukoA:toe_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowlegHR_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowlegHR_R/CHyukoA:backKnee_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:lowlegHR_R/CHyukoA:kneeFrontTU_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighTwistc_R/CHyukoA:thighTU_R
+        weight: 1
+      - path: CHyukoA:Reference/CHyukoA:hip_C/CHyukoA:thigh_R/CHyukoA:thighTwista_R/CHyukoA:thighTwistb_R/CHyukoA:thighVolB_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

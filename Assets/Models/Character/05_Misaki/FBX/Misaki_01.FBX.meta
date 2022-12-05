@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: aad6d40e142655c4db32c31bb241a9e1
+timeCreated: 1488967198
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: collar
+    100004: cuffs
+    100006: eyeBall
+    100008: eyeHighLight
+    100010: eyeline
+    100012: hair
+    100014: hairFront
+    100016: hairTail
+    100018: head
+    100020: headNose
+    100022: legs
+    100024: mayu
+    100026: //RootNode
+    100028: pants
+    100030: ribbon
+    100032: scarf
+    100034: shirt
+    100036: shoes
+    100038: skin
+    100040: tongue
+    100042: tooth
+    400000: body
+    400002: collar
+    400004: cuffs
+    400006: eyeBall
+    400008: eyeHighLight
+    400010: eyeline
+    400012: hair
+    400014: hairFront
+    400016: hairTail
+    400018: head
+    400020: headNose
+    400022: legs
+    400024: mayu
+    400026: //RootNode
+    400028: pants
+    400030: ribbon
+    400032: scarf
+    400034: shirt
+    400036: shoes
+    400038: skin
+    400040: tongue
+    400042: tooth
+    2300000: body
+    2300002: collar
+    2300004: cuffs
+    2300006: eyeBall
+    2300008: eyeHighLight
+    2300010: eyeline
+    2300012: hair
+    2300014: hairFront
+    2300016: hairTail
+    2300018: head
+    2300020: headNose
+    2300022: legs
+    2300024: mayu
+    2300026: pants
+    2300028: ribbon
+    2300030: scarf
+    2300032: shirt
+    2300034: shoes
+    2300036: skin
+    2300038: tongue
+    2300040: tooth
+    3300000: body
+    3300002: collar
+    3300004: cuffs
+    3300006: eyeBall
+    3300008: eyeHighLight
+    3300010: eyeline
+    3300012: hair
+    3300014: hairFront
+    3300016: hairTail
+    3300018: head
+    3300020: headNose
+    3300022: legs
+    3300024: mayu
+    3300026: pants
+    3300028: ribbon
+    3300030: scarf
+    3300032: shirt
+    3300034: shoes
+    3300036: skin
+    3300038: tongue
+    3300040: tooth
+    4300000: skin
+    4300002: pants
+    4300004: legs
+    4300006: shoes
+    4300008: shirt
+    4300010: body
+    4300012: cuffs
+    4300014: scarf
+    4300016: collar
+    4300018: eyeline
+    4300020: hair
+    4300022: ribbon
+    4300024: hairTail
+    4300026: hairFront
+    4300028: eyeBall
+    4300030: headNose
+    4300032: eyeHighLight
+    4300034: mayu
+    4300036: tooth
+    4300038: tongue
+    4300040: head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
