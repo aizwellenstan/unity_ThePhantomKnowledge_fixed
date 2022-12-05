@@ -40,15 +40,14 @@ namespace UTJTimelineUtil
                 tracks = UpdateManager.GetTrackList(m_track.parent as TimelineAsset);
             }
             bool flgFound = false;
-            if (tracks != null)
-                foreach (var track in tracks)
+            /*foreach (var track in tracks)
+            {
+                if (track == m_track)
                 {
-                    if (track == m_track)
-                    {
-                        flgFound = true;
-                        break;
-                    }
+                    flgFound = true;
+                    break;
                 }
+            }*/
             if (flgFound == false) // the track is not included. It must be the garbage.
             {
                 m_track = null;

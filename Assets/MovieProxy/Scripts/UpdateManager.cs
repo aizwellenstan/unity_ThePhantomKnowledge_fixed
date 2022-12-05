@@ -370,9 +370,7 @@ namespace UTJTimelineUtil
 
             type = val.GetType();
             info = type.GetProperty("currentDirector", bf);
-            
-            if (val == null) 
-                val = info.GetValue(val, null);
+            val = info.GetValue(val, null);
 
             return val as PlayableDirector;
         }
